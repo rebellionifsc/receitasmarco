@@ -1,0 +1,527 @@
+{
+	"name": "HeyCeitas",
+	"description": "",
+	"recipes": {
+		
+		"other": [
+			{
+			"name": "Miojo à parisiense",
+			"description": "Uma receita de macarrão com molho branco por um custo baixíssimo",
+			"image": "http://cozinhaadois.com.br/wp-content/uploads/2012/08/massa1.jpg?x66982",
+			"ingredients": [
+				{
+					"unity": "g",
+					"number": 100,
+					"name": "presunto"
+				},
+				{
+					"unity": "pacote",
+					"number": 1,
+					"name": "miojo"
+				},
+				{
+					"unity": "g",
+					"number": 100,
+					"name": "ervilha"
+				},
+				{
+					"unity": "ml",
+					"number": 200,
+					"name": "creme de leite"
+				},
+				{
+					"unity": "g",
+					"number": 50,
+					"name": "queijo ralado"
+				}
+			],
+			"preparation": [
+				" Coloque o miojo em água fervendo por 3 minutos sem usar o tempero ",
+				" Retire e reserve ",
+				" Em uma panela em fogo baixo, coloque o creme de leite ",
+				" Pique o presunto e adicione ao creme de leite ",
+				" Adicione também a ervilha e o tempero do miojo ",
+				" Adicione 30g de queijo ralado e mexa bem ",
+				" Desligue o fogo e cubra o miojo com o molho ",
+				" Polvilhe 20g de queijo ralado sobre o miojo."
+			]
+			
+		},{ 
+		"name": "Pão de Alho",
+		"description": "Aprenda como fazer Pão de Alho ao melhor estilo humildão. Fácil, simples e gostoso",
+		"image": "http://www.tudogostoso.com.br/images/recipes/000/109/170/85675/85675_original.jpg?mode=crop&width=600&height=450",
+		"ingredients": [
+			{
+				"unity": "unitys",
+				"number": 4,
+				"name": "pães franceses"
+			},
+			{
+				"unity": "pote",
+				"number": 1,
+				"name": "maionese"
+			},
+			{
+				"unity": "cabeça",
+				"number": 1,
+				"name": "alho"
+			},
+			{
+				"unity": "pacote",
+				"number": 1,
+				"name": "orégano"
+			}
+		],
+		"preparation": [
+			" Descasque e pique oito dentes de alho ",
+			" Misture em oito colheres de maionese ",
+			" Adicione orégano à gosto ",
+			" Passe a maionese nos pães abertos na metade ",
+			" Leve ao forno por 3 minutos em fogo alto. "
+		]
+		
+	},{ 
+	"name": "Strogonoff de Frango",
+	"description": "Strogonoff simples e supimpa",
+	"image": "http://selfservicesaborear.com.br/site/wp-content/uploads/2015/06/saborear_08-estrogonofe-de-frango.jpg",
+	"ingredients": [
+		{
+			"unity": "g",
+			"number": 250,
+			"name": "peito de frango"
+		},
+		{
+			"unity": "pacote",
+			"number": 1,
+			"name": "molho de tomate"
+		},
+		{
+			"unity": "caixa",
+			"number": 1,
+			"name": "creme de leite"
+		},
+		{
+			"unity": "unity",
+			"number": 0.25,
+			"name": "cebola"
+		},
+		{
+			"unity": "dentes",
+			"number": 4,
+			"name": "alho"
+		},
+		{
+			"unity": "xicara",
+			"number": 0.50,
+			"name": "arroz"
+		}
+	],
+	"preparation": [
+		" Pique metade da cebola ed o alho e refogue em óleo ",
+		" Adicione o arroz e depois 1 xícara de água ",
+		" Deixe o arroz cozinhar até secar a água ",
+		" Corte o peito de frango em cubinhos ",
+		" Pique a outra metade da cebola e do alho e refogue em óleo ",
+		" Frite o frango junto com o a cebola e o alho ",
+		" Acrescente sal e o molho de tomate e deixe cozinhar por 5 minutos ",
+		" Desligue o fogo e acrescente o creme de leite."
+	]
+	
+},{ 
+"name": "Buraco Quente (aka Mexicano)",
+"description": "( ͡° ͜ʖ ͡°)",
+"image": "http://www.sabordacidade.com.br/fotos/f06s06s2015s12s12s37.jpg",
+"ingredients": [
+	{
+		"unity": "unitys",
+		"number": 2,
+		"name": "pães franceses"
+	},
+	{
+		"unity": "g",
+		"number": 250,
+		"name": "carne moída"
+	},
+	{
+		"unity": "pacote",
+		"number": 1,
+		"name": "cominho"
+	},
+	{
+		"unity": "unity",
+		"number": 1,
+		"name": "tomate"
+	},
+	{
+		"unity": "unity",
+		"number": 0.50,
+		"name": "cebola"
+	},
+	{
+		"unity": "dentes",
+		"number": 6,
+		"name": "alho"
+	},
+	{
+		"unity": "g",
+		"number": 50,
+		"name": "bacon"
+	}
+],
+"preparation": [
+	" Corte o bacon em cubinhos e frite em uma panela ",
+	" Adicione o alho picado e frite até ficar dourado ",
+	" Entre com a cebola picada e refogue até ficar translúcida ",
+	" Frite a carne e tempere com sal e cominho ",
+	" Adicione o tomate e meio copo de água ",
+	" Entre com o molho de pimenta ",
+	" Cozinhe por 10 minutos ",
+	" Afunde o miolo para dentro dos pães e encha com a carne."
+]
+
+},
+{
+"name": "Miojo Calabrês",
+"description": "Aprenda a fazer esse miojo tunado com molho de calabresa. ",
+"image": "https://i.ytimg.com/vi/4ZHVKvUJ1Xo/hqdefault.jpg",
+"ingredients": [
+	{
+		"unity": "pacote",
+		"number": 1,
+		"name": "miojo"
+	},
+	{
+		"unity": "unity",
+		"number": 1,
+		"name": "Linguiça Calabresa"
+	},
+	{
+		"unity": "unity",
+		"number": 1,
+		"name": "tomate"
+	},
+	{
+		"unity": "unity",
+		"number": 0.50,
+		"name": "cebola"
+	},
+	{
+		"unity": "dente",
+		"number": 1,
+		"name": "alho"
+	},
+	{
+		"unity": "pacote",
+		"number": 1,
+		"name": "queijo ralado"
+	}
+],
+"preparation": [
+	" Frite a linguiça calabresa fatiada ",
+	" Adicione a cebola e o alho picados e refogue ",
+	" Adicione o tomate picado e deixe cozinhar até soltar bastante água ",
+	" Acrescente 1/2 copo de água e metade do tempero do macarrão e espere reduzir ",
+	" Cozinhe o macarrão por 3 minutos ",
+	" Escorra toda a água do macarrão, misture com o molho e sirva. "
+]
+
+},
+{
+"name": "Omelête",
+"description": "Aprenda a fazer esse omlete humildão com bacon. Prático e barato!",
+"image": "https://www.comidaereceitas.com.br/images/stories/2012/11/omelete_bacon.jpg",
+"ingredients": [
+	{
+		"unity": "unity",
+		"number": 2,
+		"name": "ovos"
+	},
+	{
+		"unity": "fatias",
+		"number": 3,
+		"name": "bacon"
+	},
+	{
+		"unity": "pacote",
+		"number": 1,
+		"name": "queijo ralado"
+	}
+],
+"preparation": [
+	" Bata 2 ovos temperados com sal e pimenta em um recipiente ",
+	" Frite as tiras de bacon em uma frigideira média ",
+	" Reserve o bacon e, na mesma frigideira, coloque o ovo batido ",
+	" Quando o ovo começar a fica consistente, adicione o queijo ralado e o bacon ",
+	" Dobre o omelete no meio e sirva. "
+]
+
+},
+{
+"name": "Mac and Cheese",
+"description": "Aprenda como fazer Mac and Cheese, uma tradicional gordice inglesa que virou febre nos Estados Unidos.",
+"image": "http://www.jehancancook.com/wp-content/uploads/2014/03/Mac-1-18-1024x828.jpg",
+"ingredients": [
+	{
+		"unity": "g",
+		"number": 150,
+		"name": "macarrão"
+	},
+	{
+		"unity": "g",
+		"number": 150,
+		"name": "muçarela"
+	},
+	{
+		"unity": "g",
+		"number": 50,
+		"name": "queijo ralado"
+	},
+	{
+		"unity": "g",
+		"number": 150,
+		"name": "creme de leite"
+	},
+	{
+		"unity": "ml",
+		"number": 20,
+		"name": "leite"
+	}
+],
+"preparation": [
+	" Encha uma panela pequena com 1,5 litros de água e bote para fever ",
+	" Quando a água estiver fervendo, adicione 150g de macarrão penne ",
+	" Espere por de 8 a 12 minutos (depende da marca do macarrão) até o macarrão ficar al dente ",
+	" Escorra o macarrão e reserve ",
+	" Na mesma panela, coloque o creme de leite e a muçarela e deixea derreter ",
+	" Adicione metade do queijo ralado e o leite e mexa até ficar homogêneo ",
+	" Entre com o macarrão, misture bem e sirva "
+]
+
+},
+{
+"name": "Sopa Creme de Cebola",
+"description": "Sopa simples e deliciosa",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4O-kKcPfVLzw56Jfc2FUZEiZ00v562PsKEsr6sT8gpVRfAuLhRw",
+"ingredients": [
+	{
+		"unity": "g",
+		"number": 700,
+		"name": "cebola"
+	},
+	{
+		"unity": "ml",
+		"number": 200,
+		"name": "creme de leite"
+	},
+	{
+		"unity": "ml",
+		"number": 400,
+		"name": "água"
+	},
+	{
+		"unity": "dentes",
+		"number": 2,
+		"name": "alho"
+	},
+	{
+		"unity": "g",
+		"number": 50,
+		"name": "queijo ralado"
+	},
+	{
+		"unity": "g",
+		"number": 30,
+		"name": "margarina"
+	},
+	{
+		"unity": "unity",
+		"number": 1,
+		"name": "pão francês"
+	}
+],
+"preparation": [
+	" Corte as cebolas em tiras e refogue em uma panela ",
+	" Acrescente 250ml água morna e deixe reduzir pela metade ",
+	" Tempere com sal e pimenta do reino à gosto ",
+	" Adicione mais 150ml de água e deixe reduzir pela metade ",
+	" Acrescente o creme de leite, misture bem, desligue o fogo e deixe esfriar por 10 minutos ",
+	" Corte o pão francês em fatias finas, passe a manteiga, coloque alho por cima e leve ao forno para torrar ",
+	" Bata a sopa no liquidificador e coloque em uma tigela de porcelana (que possa ir ao forno) ",
+	" Bote três rodelas de pão em cima de cada tigela de sopa e cubra de queijo parmesão.",
+	" Leve ao forno para gratinar e sirva."
+]
+
+},
+{
+"name": "Miojo à parisiense",
+"description": "Uma receita de macarrão com molho branco por um custo baixíssimo",
+"image": "http://www.recipesanamaria.net/wpcontent/uploads/2014/12/receitamassaaomolhoparisiense610x300.jpg",
+"ingredients": [
+	{
+		"unity": "g",
+		"number": 100,
+		"name": "presunto"
+	},
+	{
+		"unity": "pacote",
+		"number": 1,
+		"name": "miojo"
+	},
+	{
+		"unity": "g",
+		"number": 100,
+		"name": "ervilha"
+	},
+	{
+		"unity": "ml",
+		"number": 200,
+		"name": "creme de leite"
+	},
+	{
+		"unity": "g",
+		"number": 50,
+		"name": "queijo ralado"
+	}
+],
+"preparation": [
+	" Coloque o miojo em água fervendo por 3 minutos sem usar o tempero ",
+	" Retire e reserve ",
+	" Em uma panela em fogo baixo, coloque o creme de leite ",
+	" Pique o presunto e adicione ao creme de leite ",
+	" Adicione também a ervilha e o tempero do miojo ",
+	" Adicione 30g de queijo ralado e mexa bem ",
+	" Desligue o fogo e cubra o miojo com o molho ",
+	" Polvilhe 20g de queijo ralado sobre o miojo."
+]
+
+},
+{
+"name": "miojo à parisiense",
+"description": "Uma receita de macarrão com molho branco por um custo baixíssimo",
+"image": "http://www.recipesanamaria.net/wpcontent/uploads/2014/12/receitamassaaomolhoparisiense610x300.jpg",
+"ingredients": [
+	{
+		"unity": "g",
+		"number": 100,
+		"name": "presunto"
+	},
+	{
+		"unity": "pacote",
+		"number": 1,
+		"name": "miojo"
+	},
+	{
+		"unity": "g",
+		"number": 100,
+		"name": "ervilha"
+	},
+	{
+		"unity": "ml",
+		"number": 200,
+		"name": "creme de leite"
+	},
+	{
+		"unity": "g",
+		"number": 50,
+		"name": "queijo ralado"
+	}
+],
+"preparation": [
+	" Coloque o miojo em água fervendo por 3 minutos sem usar o tempero ",
+	" Retire e reserve ",
+	" Em uma panela em fogo baixo, coloque o creme de leite ",
+	" Pique o presunto e adicione ao creme de leite ",
+	" Adicione também a ervilha e o tempero do miojo ",
+	" Adicione 30g de queijo ralado e mexa bem ",
+	" Desligue o fogo e cubra o miojo com o molho ",
+	" Polvilhe 20g de queijo ralado sobre o miojo."
+]
+
+},
+{
+"name": "miojo à parisiense",
+"description": "Uma receita de macarrão com molho branco por um custo baixíssimo",
+"image": "http://www.recipesanamaria.net/wpcontent/uploads/2014/12/receitamassaaomolhoparisiense610x300.jpg",
+"ingredients": [
+	{
+		"unity": "g",
+		"number": 100,
+		"name": "presunto"
+	},
+	{
+		"unity": "pacote",
+		"number": 1,
+		"name": "miojo"
+	},
+	{
+		"unity": "g",
+		"number": 100,
+		"name": "ervilha"
+	},
+	{
+		"unity": "ml",
+		"number": 200,
+		"name": "creme de leite"
+	},
+	{
+		"unity": "g",
+		"number": 50,
+		"name": "queijo ralado"
+	}
+],
+"preparation": [
+	" Coloque o miojo em água fervendo por 3 minutos sem usar o tempero ",
+	" Retire e reserve ",
+	" Em uma panela em fogo baixo, coloque o creme de leite ",
+	" Pique o presunto e adicione ao creme de leite ",
+	" Adicione também a ervilha e o tempero do miojo ",
+	" Adicione 30g de queijo ralado e mexa bem ",
+	" Desligue o fogo e cubra o miojo com o molho ",
+	" Polvilhe 20g de queijo ralado sobre o miojo."
+]
+
+},{"name": "miojo à parisiense",
+"description": "Uma receita de macarrão com molho branco por um custo baixíssimo",
+"image": "http://www.recipesanamaria.net/wpcontent/uploads/2014/12/receitamassaaomolhoparisiense610x300.jpg",
+"ingredients": [
+	{
+		"unity": "g",
+		"number": 100,
+		"name": "presunto"
+	},
+	{
+		"unity": "pacote",
+		"number": 1,
+		"name": "miojo"
+	},
+	{
+		"unity": "g",
+		"number": 100,
+		"name": "ervilha"
+	},
+	{
+		"unity": "ml",
+		"number": 200,
+		"name": "creme de leite"
+	},
+	{
+		"unity": "g",
+		"number": 50,
+		"name": "queijo ralado"
+	}
+],
+"preparation": [
+	" Coloque o miojo em água fervendo por 3 minutos sem usar o tempero ",
+	" Retire e reserve ",
+	" Em uma panela em fogo baixo, coloque o creme de leite ",
+	" Pique o presunto e adicione ao creme de leite ",
+	" Adicione também a ervilha e o tempero do miojo ",
+	" Adicione 30g de queijo ralado e mexa bem ",
+	" Desligue o fogo e cubra o miojo com o molho ",
+	" Polvilhe 20g de queijo ralado sobre o miojo."
+]
+}   
+]
+}
+}
+
