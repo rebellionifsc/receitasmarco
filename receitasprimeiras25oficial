@@ -1,0 +1,1075 @@
+{
+	"name": "HeyCeitas",
+	"description": "",
+	"recipes": {
+		
+		"other": [
+			{
+			"name": "Miojo à parisiense",
+			"description": "Uma receita de macarrão com molho branco por um custo baixíssimo",
+			"image": "http://cozinhaadois.com.br/wp-content/uploads/2012/08/massa1.jpg?x66982",
+			"ingredients": [
+				{
+					"unity": "g",
+					"number": 100,
+					"name": "presunto"
+				},
+				{
+					"unity": "pacote",
+					"number": 1,
+					"name": "miojo"
+				},
+				{
+					"unity": "g",
+					"number": 100,
+					"name": "ervilha"
+				},
+				{
+					"unity": "ml",
+					"number": 200,
+					"name": "creme de leite"
+				},
+				{
+					"unity": "g",
+					"number": 50,
+					"name": "queijo ralado"
+				}
+			],
+			"preparation": [
+				" Coloque o miojo em água fervendo por 3 minutos sem usar o tempero ",
+				" Retire e reserve ",
+				" Em uma panela em fogo baixo, coloque o creme de leite ",
+				" Pique o presunto e adicione ao creme de leite ",
+				" Adicione também a ervilha e o tempero do miojo ",
+				" Adicione 30g de queijo ralado e mexa bem ",
+				" Desligue o fogo e cubra o miojo com o molho ",
+				" Polvilhe 20g de queijo ralado sobre o miojo."
+			]
+			
+		},
+		{ 
+		"name": "Pão de Alho",
+		"description": "Aprenda como fazer Pão de Alho ao melhor estilo humildão. Fácil, simples e gostoso",
+		"image": "http://www.tudogostoso.com.br/images/recipes/000/109/170/85675/85675_original.jpg?mode=crop&width=600&height=450",
+		"ingredients": [
+			{
+				"unity": "unidade",
+				"number": 4,
+				"name": "pães franceses"
+			},
+			{
+				"unity": "pote",
+				"number": 1,
+				"name": "maionese"
+			},
+			{
+				"unity": "cabeça",
+				"number": 1,
+				"name": "alho"
+			},
+			{
+				"unity": "pacote",
+				"number": 1,
+				"name": "orégano"
+			}
+		],
+		"preparation": [
+			" Descasque e pique oito dentes de alho ",
+			" Misture em oito colheres de maionese ",
+			" Adicione orégano à gosto ",
+			" Passe a maionese nos pães abertos na metade ",
+			" Leve ao forno por 3 minutos em fogo alto. "
+		]
+		
+	},
+	{ 
+	"name": "Strogonoff de Frango",
+	"description": "Strogonoff simples e supimpa",
+	"image": "http://selfservicesaborear.com.br/site/wp-content/uploads/2015/06/saborear_08-estrogonofe-de-frango.jpg",
+	"ingredients": [
+		{
+			"unity": "g",
+			"number": 250,
+			"name": "peito de frango"
+		},
+		{
+			"unity": "pacote",
+			"number": 1,
+			"name": "molho de tomate"
+		},
+		{
+			"unity": "caixa",
+			"number": 1,
+			"name": "creme de leite"
+		},
+		{
+			"unity": "unidade",
+			"number": 0.25,
+			"name": "cebola"
+		},
+		{
+			"unity": "dentes",
+			"number": 4,
+			"name": "alho"
+		},
+		{
+			"unity": "xicara",
+			"number": 0.50,
+			"name": "arroz"
+		}
+	],
+	"preparation": [
+		" Pique metade da cebola ed o alho e refogue em óleo ",
+		" Adicione o arroz e depois 1 xícara de água ",
+		" Deixe o arroz cozinhar até secar a água ",
+		" Corte o peito de frango em cubinhos ",
+		" Pique a outra metade da cebola e do alho e refogue em óleo ",
+		" Frite o frango junto com o a cebola e o alho ",
+		" Acrescente sal e o molho de tomate e deixe cozinhar por 5 minutos ",
+		" Desligue o fogo e acrescente o creme de leite."
+	]
+	
+},
+{ 
+"name": "Buraco Quente (aka Mexicano)",
+"description": "( ͡° ͜ʖ ͡°)",
+"image": "http://www.sabordacidade.com.br/fotos/f06s06s2015s12s12s37.jpg",
+"ingredients": [
+	{
+		"unity": "unidade",
+		"number": 2,
+		"name": "pães franceses"
+	},
+	{
+		"unity": "g",
+		"number": 250,
+		"name": "carne moída"
+	},
+	{
+		"unity": "pacote",
+		"number": 1,
+		"name": "cominho"
+	},
+	{
+		"unity": "unidade",
+		"number": 1,
+		"name": "tomate"
+	},
+	{
+		"unity": "unidade",
+		"number": 0.50,
+		"name": "cebola"
+	},
+	{
+		"unity": "dentes",
+		"number": 6,
+		"name": "alho"
+	},
+	{
+		"unity": "g",
+		"number": 50,
+		"name": "bacon"
+	}
+],
+"preparation": [
+	" Corte o bacon em cubinhos e frite em uma panela ",
+	" Adicione o alho picado e frite até ficar dourado ",
+	" Entre com a cebola picada e refogue até ficar translúcida ",
+	" Frite a carne e tempere com sal e cominho ",
+	" Adicione o tomate e meio copo de água ",
+	" Entre com o molho de pimenta ",
+	" Cozinhe por 10 minutos ",
+	" Afunde o miolo para dentro dos pães e encha com a carne."
+]
+
+},
+{
+"name": "Miojo Calabrês",
+"description": "Aprenda a fazer esse miojo tunado com molho de calabresa. ",
+"image": "https://i.ytimg.com/vi/4ZHVKvUJ1Xo/hqdefault.jpg",
+"ingredients": [
+	{
+		"unity": "pacote",
+		"number": 1,
+		"name": "miojo"
+	},
+	{
+		"unity": "unidade",
+		"number": 1,
+		"name": "Linguiça Calabresa"
+	},
+	{
+		"unity": "unidade",
+		"number": 1,
+		"name": "tomate"
+	},
+	{
+		"unity": "unidade",
+		"number": 0.50,
+		"name": "cebola"
+	},
+	{
+		"unity": "dente",
+		"number": 1,
+		"name": "alho"
+	},
+	{
+		"unity": "pacote",
+		"number": 1,
+		"name": "queijo ralado"
+	}
+],
+"preparation": [
+	" Frite a linguiça calabresa fatiada ",
+	" Adicione a cebola e o alho picados e refogue ",
+	" Adicione o tomate picado e deixe cozinhar até soltar bastante água ",
+	" Acrescente 1/2 copo de água e metade do tempero do macarrão e espere reduzir ",
+	" Cozinhe o macarrão por 3 minutos ",
+	" Escorra toda a água do macarrão, misture com o molho e sirva. "
+]
+
+},
+{
+"name": "Omelête",
+"description": "Aprenda a fazer esse omlete humildão com bacon. Prático e barato!",
+"image": "https://www.comidaereceitas.com.br/images/stories/2012/11/omelete_bacon.jpg",
+"ingredients": [
+	{
+		"unity": "unidade",
+		"number": 2,
+		"name": "ovos"
+	},
+	{
+		"unity": "fatias",
+		"number": 3,
+		"name": "bacon"
+	},
+	{
+		"unity": "pacote",
+		"number": 1,
+		"name": "queijo ralado"
+	}
+],
+"preparation": [
+	" Bata 2 ovos temperados com sal e pimenta em um recipiente ",
+	" Frite as tiras de bacon em uma frigideira média ",
+	" Reserve o bacon e, na mesma frigideira, coloque o ovo batido ",
+	" Quando o ovo começar a fica consistente, adicione o queijo ralado e o bacon ",
+	" Dobre o omelete no meio e sirva. "
+]
+
+},
+{
+"name": "Mac and Cheese",
+"description": "Aprenda como fazer Mac and Cheese, uma tradicional gordice inglesa que virou febre nos Estados Unidos.",
+"image": "http://www.jehancancook.com/wp-content/uploads/2014/03/Mac-1-18-1024x828.jpg",
+"ingredients": [
+	{
+		"unity": "g",
+		"number": 150,
+		"name": "macarrão"
+	},
+	{
+		"unity": "g",
+		"number": 150,
+		"name": "muçarela"
+	},
+	{
+		"unity": "g",
+		"number": 50,
+		"name": "queijo ralado"
+	},
+	{
+		"unity": "g",
+		"number": 150,
+		"name": "creme de leite"
+	},
+	{
+		"unity": "ml",
+		"number": 20,
+		"name": "leite"
+	}
+],
+"preparation": [
+	" Encha uma panela pequena com 1,5 litros de água e bote para fever ",
+	" Quando a água estiver fervendo, adicione 150g de macarrão penne ",
+	" Espere por de 8 a 12 minutos (depende da marca do macarrão) até o macarrão ficar al dente ",
+	" Escorra o macarrão e reserve ",
+	" Na mesma panela, coloque o creme de leite e a muçarela e deixea derreter ",
+	" Adicione metade do queijo ralado e o leite e mexa até ficar homogêneo ",
+	" Entre com o macarrão, misture bem e sirva "
+]
+
+},
+{
+"name": "Sopa Creme de Cebola",
+"description": "Sopa simples e deliciosa",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4O-kKcPfVLzw56Jfc2FUZEiZ00v562PsKEsr6sT8gpVRfAuLhRw",
+"ingredients": [
+	{
+		"unity": "g",
+		"number": 700,
+		"name": "cebola"
+	},
+	{
+		"unity": "ml",
+		"number": 200,
+		"name": "creme de leite"
+	},
+	{
+		"unity": "ml",
+		"number": 400,
+		"name": "água"
+	},
+	{
+		"unity": "dentes",
+		"number": 2,
+		"name": "alho"
+	},
+	{
+		"unity": "g",
+		"number": 50,
+		"name": "queijo ralado"
+	},
+	{
+		"unity": "g",
+		"number": 30,
+		"name": "margarina"
+	},
+	{
+		"unity": "unidade",
+		"number": 1,
+		"name": "pão francês"
+	}
+],
+"preparation": [
+	" Corte as cebolas em tiras e refogue em uma panela ",
+	" Acrescente 250ml água morna e deixe reduzir pela metade ",
+	" Tempere com sal e pimenta do reino à gosto ",
+	" Adicione mais 150ml de água e deixe reduzir pela metade ",
+	" Acrescente o creme de leite, misture bem, desligue o fogo e deixe esfriar por 10 minutos ",
+	" Corte o pão francês em fatias finas, passe a manteiga, coloque alho por cima e leve ao forno para torrar ",
+	" Bata a sopa no liquidificador e coloque em uma tigela de porcelana (que possa ir ao forno) ",
+	" Bote três rodelas de pão em cima de cada tigela de sopa e cubra de queijo parmesão.",
+	" Leve ao forno para gratinar e sirva."
+]
+
+},
+{
+"name": "Miojo All'Amatriciana",
+"description": "Humildade a moda italiana",
+"image": "https://s-media-cache-ak0.pinimg.com/originals/87/ee/36/87ee363225c8550a401554f8651ac9bd.jpg",
+"ingredients": [
+	{
+		"unity": "pacote",
+		"number": 1,
+		"name": "miojo"
+	},
+	{
+		"unity": "unidade",
+		"number": 3,
+		"name": "tomates"
+	},
+	{
+		"unity": "g",
+		"number": 130,
+		"name": "bacon"
+	},
+	{
+		"unity": "g",
+		"number": 100,
+		"name": "queijo ralado"
+	},
+	{
+		"unity": "g",
+		"number": 20,
+		"name": "pimenta vermelha"
+	}
+],
+"preparation": [
+	" Faça cortes superficiais em forma de X na \"bunda\" do tomate ",
+	" Deixe-os por 1 minuto na água fervendo ",
+	" Retire a pele, corte-os em 4 partes e tire o miolo e pique ",
+	" Pique a pimenta ",
+	" Corte o bacon em pequenas tiras e frite (reserve) ",
+	" Leve os tomates para a mesma panela que o bacon foi frito ",
+	" Deixe o tomate cozinhar por 5 minutos, acrescente o bacon, a pimenta, 200ml de água e misture tudo muito bem ",
+	" Adicione 50g de queijo ralado ",
+	" Cozinhe o macarrão ",
+	" Sirva o miojo com o molho e finalize com o queijo ralado"
+]
+
+},
+{
+"name": "Batata Rosti",
+"description": "Aprenda a fazer a Batata Rosti, deliciosa receita suiça com apenas 4 ingredientes. ",
+"image": "http://www.multireceitas.com.br/wp-content/uploads/2015/06/Receta-Batata-Rosti-Recheada1.jpg",
+"ingredients": [
+	{
+		"unity": "g",
+		"number": 500,
+		"name": "batata"
+	},
+	{
+		"unity": "g",
+		"number": 60,
+		"name": "margarina"
+	},
+	{
+		"unity": "a gosto",
+		"number": "null",
+		"name": "requeijão"
+	},
+	{
+		"unity": "g",
+		"number": 150,
+		"name": "presunto"
+	}
+
+
+],
+"preparation": [
+	" Coloque água para ferver em uma panela ",
+	" Com a água fervendo, coloque as batatas inteiras e deixe cozinhar por 10 minutos ",
+	" Retire as batatas e deixe por 1/2 hora no freezer ",
+	" Pique o presunto e reserve ",
+	" Retire as batatas do congelador, descasque-as e rale-as ",
+	" Tempere com sal e pimenta do reino ",
+	" Derreta 3 colheres de manteiga no microondas e adicione nas batatas raladas ",
+	" Misture bem",
+	" Em uma frigideira anti-aderente, faça uma camada de batata e leve ao fogo",
+	" Coloque uma porção generosa de requeijão e salpique o presunto picado",
+	" Faça outra camada de batata por cima",
+	" Deixe fritar por (em média) 5 minutos e vire para fritar do outro lado.",
+	" Sirva "
+]
+
+},
+{
+"name": "Batata Hasselback",
+"description": "Aprenda como fazer Hassellback Potato, a batata assada estilo sueco, na versão humildona e tunada",
+"image": "http://www.receitadodia.com/wp-content/uploads/2013/08/batatas-Hasselback-1.jpg",
+"ingredients": [
+	{
+		"unity": "unidade",
+		"number": 1,
+		"name": "batata"
+	},
+	{
+		"unity": "g",
+		"number": 10,
+		"name": "alecrim"
+	},
+	{
+		"unity": "g",
+		"number": 40,
+		"name": "manteiga"
+	},
+	{
+		"unity": "dentes",
+		"number": 2,
+		"name": "alho"
+	},
+	{
+		"unity": "a gosto",
+		"number": "null",
+		"name": "sal"
+	},
+	{
+		"unity": "a gosto",
+		"number": "null",
+		"name": "pimenta"
+	}
+],
+"preparation": [
+	" Leve o azeite, o alecrim e o alho ao fogo baixo em uma panela pequena ",
+	" Aqueça o azeite por 2 minutos sem deixa-lo queimar ",
+	" Faça cortes transversais na batata ",
+	" Besunte a batata com o azeite temperado ",
+	" Leve ao forno por 40 minutos à 200º ",
+	" Retire do forno, passe mais azeite e volte ao forno por mais 15 minutos à 250º.",
+	" Sirva "
+]
+
+},
+
+{"name": "Batatas Rústicas",
+"description": "Aprenda como se fazer batata rústica frita no forno.",
+"image": "https://www.amorpelacomida.com.br/wp-content/uploads/2018/01/batata-rustica-frita-de-forno-crocante-por-fora-e-macia-por-dentro-721x1024.jpg",
+"ingredients": [
+	{
+		"unity": "unidades",
+		"number": 3,
+		"name": "batatas"
+	},
+	{
+		"unity": "unidades",
+		"number": 2,
+		"name": "ramos de alecrim"
+	},
+	{
+		"unity": "dentes",
+		"number": 5,
+		"name": "alho"
+	},
+	{
+		"unity": "ml",
+		"number": 200,
+		"name": "azeite"
+	}
+],
+"preparation": [
+	" Lave as batatas e corte-as em 6 pedaços ",
+	" Cozinhe as batatas em água fervente por 5 minutos ",
+	" Coloque as batatas, o alho e o alecrim em uma assadeira e regue com azeite ",
+	" Asse à 200º por 30 minutos, vire as batatas e asse por mais 10 minutos ",
+	" Retire as batatas da assadeira e utilize papel toalha para secar o excesso de azeite ",
+	" Sirva com um molho de sua preferencia "
+	
+]
+},
+{   "name": "Macarrão com molho de queijo",
+	"description": "Uma massa sempre vai bem, é fácil de fazer e muito gostosa!",
+	"image": "https://receitinhas.s3-sa-east-1.amazonaws.com/wp-content/uploads/2016/10/macarr%C3%A3o-com-molho-de-queijo-tratada-848x477.jpg",
+	"ingredients": [
+		{
+		    "unity": "g",
+			"number": 200,
+			"name": "requeijão"
+		},
+		{
+			"unity": "ml",
+			"number": 700,
+			"name": "leite"
+		},
+		{
+			"unity": "g",
+			"number": 15,
+			"name": "farinha de trigo"
+		},
+		{
+			"unity": "g",
+			"number": 80,
+			"name": "cebola ralada"
+		},
+		{
+			"unity": "g",
+			"number": 500,
+			"name": "Macarrão"
+		},
+		{
+			"unity": "g",
+			"number": 80,
+			"name": "queijo ralado"
+		},
+		{
+			"unity": "g",
+			"number": 25,
+			"name": "manteiga"
+		},
+		{
+			"unity": "a gosto",
+			"number": "null",
+			"name": "sal"
+		}	
+	],
+	"preparation": [
+		" Cozinhe o macarrão em água quente com sal e reserve. ",
+		" Numa panela, refogue a farinha na manteiga em fogo baixo, acrescente a cebola e refogue um pouco mais. Adicione o leite fervendo e mexa até engrossar.",
+		" Acrescente o requeijão,o queijo ralado e deixe incorporar. Acerte o sal. ",
+		" Numa tigela, despeje o macarrão e vá acrescentando o molho do queijo ",
+		" Sirva "
+	]
+	
+	},
+	{ 
+		"name": "Carninha de panela",
+		"description": "Versão humilde da carne de panela da sua mãe.",
+		"image": "https://www.receitadevovo.com.br/gbau/sistema/receitas/img/bife-de-panela.jpg",
+		"ingredients": [
+			{
+				"unity": "kg",
+				"number": 2,
+				"name": "carne"
+			},
+			{
+				"unity": "unidade",
+				"number": 1,
+				"name": "cebola"
+			},
+			{
+				"unity": "unidades",
+				"number": 2,
+				"name": "caldos de carne"
+			}
+			
+		],
+		"preparation": [
+			" Em uma panela de pressão, coloque a cebola picada e o caldo de carne ",
+			" Coloque a carne picada e mais um caldo de carne por cima ",
+			" Tampe a panela e deixe cozinhar em fogo médio por 30 minutos. ",
+			" Destampe a panela e veja o resultado, uma carne macia e saborosa ",
+			" Sirva "
+		]
+		
+		},
+		{ 
+			"name": "Frango ao molho de tomate",
+			"description": "Que tal dar um toque cremoso no franguinho básico? essa receita fica pronta em menos de 30 minutos!",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3GEHOyQrkoHxQvpTqMD3ybRZHLZ83jfvDhLETSUImfb8SupUpGw",
+			"ingredients": [
+				{
+					"unity": "g",
+					"number": 200,
+					"name": "frango"
+				},
+				{
+					"unity": "unidade",
+					"number": 1,
+					"name": "lata de molho de tomate"
+				},
+				{
+					"unity": "ml",
+					"number": 30,
+					"name": "óleo"
+				},
+				{
+					"unity": "ml",
+					"number": 120,
+					"name": "água"
+				},
+				{
+					"unity": "a gosto",
+					"number": "null",
+					"name": "sal"
+				},
+				{
+					"unity": "a gosto",
+					"number": "null",
+					"name": "pimenta"
+				}
+			],
+			"preparation": [
+				" Tempere o frango com sal e pimenta ",
+				" Frite os pedaços de frango até dourarem dos dois lados ",
+				" Junte o molho de tomate e a água ",
+				" Tampe e deixe cozinhar até o frango ficar macio. ",
+				" Seu prato está pronto, Bom apetite! "
+				
+			]
+			
+			},
+			{ 
+				"name": "Panqueca de batatas",
+				"description": "Uma receita diferente, extremamente deliciosa e prática",
+				"image": "http://images1.minhavida.com.br/imagensconteudo/22895/panqueca-batata-doce-.jpg",
+				"ingredients": [
+					{
+						"unity": "unidades",
+						"number": 4,
+						"name": "batatas"
+					},
+					{
+						"unity": "unidades",
+						"number": 2,
+						"name": "ovos"
+					},
+					{
+						"unity": "g",
+						"number": 40,
+						"name": "manteiga"
+					},
+					{
+						"unity": "g",
+						"number": 15,
+						"name": "farinha de trigo"
+					},
+					{
+						"unity": "ml",
+						"number": 30,
+						"name": "leite"
+					},
+					{
+						"unity": "a gosto",
+						"number": "null",
+						"name": "sal"
+					}
+
+				],
+				"preparation": [
+					" Descasque e rale as batatas ",
+					" Numa tigela, colocar os ovos e bater ligeiramente, juntar a metade da manteiga, a farinha, o leite e mexer bem. ",
+					" Juntar as batatas e o sal. ",
+					" Numa frigideira, colocar o restante da manteiga, acrescentar a massa de batatas e deixar no fogo brando até dourar. ",
+					" Virar e dourar o outro lado ",
+					" Sirva "
+				]
+				
+				},
+				{ 
+					"name": "Atum ao forno",
+					"description": "Do mar pra lata, e da lata pro seu coração.",
+					"image": "http://s.glbimg.com/po/rc/media/2012/06/13/14/30/21/531/_atum_ao_forno.jpg",
+					"ingredients": [
+						{
+							"unity": "unidades",
+							"number": 3,
+							"name": "batatas"
+						},
+						{
+							"unity": "unidades",
+							"number": 2,
+							"name": "tomates"
+						},
+						{
+							"unity": "unidade",
+							"number": 1,
+							"name": "cebola"
+						},
+						{
+							"unity": "latas",
+							"number": 2,
+							"name": "atum"
+						},
+						{
+							"unity": "g",
+							"number": 200,
+							"name": "queijo ralado"
+						},
+						{
+							"unity": "a gosto",
+							"number": "null",
+							"name": "azeite"
+						},
+						{
+							"unity": "a gosto",
+							"number": "null",
+							"name": "sal"
+						},
+						{
+							"unity": "a gosto",
+							"number": "null",
+							"name": "pimenta"
+						}
+					],
+					"preparation": [
+						" Corte as batatas e a cebola em rodelas, e o tomate em quadradinhos ",
+						" Unte uma assadeira com azeite ",
+						" Alterne camadas de batata, tomate, cebola, atum e mussarela na frigideira ",
+						" Sobre cada camada, regue um pouco de azeite, tempere com o sal e pimenta ",
+						" Leve ao forno alto, preaquecido, a 220 ºC, durante 25 minutos ",
+						" Sirva "
+						
+					]
+					
+					},
+					{ 
+						"name": "Palitos crocantes de peixe",
+						"description": "Filezinhos de peixe empanados de uma maneira simples e deliciosa",
+						"image": "http://www.receitax.com/wp-content/uploads/2016/02/file-de-peixe-empanado.jpg",
+						"ingredients": [
+							{
+								"unity": "unidade",
+								"number": 2,
+								"name": "ovos"
+							},
+							{
+								"unity": "g",
+								"number": 250,
+								"name": "farinha de rosca"
+							},
+							{
+								"unity": "g",
+								"number": 30,
+								"name": "farinha de trigo"
+							},
+							{
+								"unity": "g",
+								"number": 450,
+								"name": "filé de peixe"
+							},
+							{
+								"unity": "a gosto",
+								"number": "null",
+								"name": "sal"
+							},
+							{
+								"unity": "a gosto",
+								"number": "null",
+								"name": "pimenta"
+							}
+
+						],
+						"preparation": [
+							" Bata os ovos em um recipiente. Jogue a farinha de rosca e a farinha de trigo em dois pratos. ",
+							" Tempere o peixe com sal e pimenta e corte-o em ’palitos’ médios. Passe-os primeiro pela farinha, retirando o excesso. Depois, pelo ovo batido e, por último, pela farinha de rosca. ",
+							" Coloque os palitos de peixe em uma frigideira e frite-os em óleo vegetal por 3 minutos de cada lado. ",
+							" Coloque os palitos já prontos em um prato coberto com papel toalha. "
+						]
+						
+						},
+						{ 
+							"name": "Brigadeiro de Caneca",
+							"description": "Aprenda como fazer brigadeiro de caneca no microondas!",
+							"image": "http://www.mundoboaforma.com.br/wp-content/uploads/2015/03/brigadeiro-de-colher.jpg",
+							"ingredients": [
+								{
+									"unity": "g",
+									"number": 150,
+									"name": "leite condensado"
+								},
+								{
+									"unity": "g",
+									"number": 6,
+									"name": "achocolatado em pó"
+								},
+								{
+									"unity": "g",
+									"number": 12,
+									"name": "manteiga"
+								}
+						
+							],
+							"preparation": [
+								" Misture os ingredientes em uma caneca de cerâmica e mexa bem ",
+								" Leve ao microondas por 2 minutos ",
+								" Retire, mexa bem e volte para o microondas por mais 20 segundos ",
+								" Repita o processo por mais três vezes, tomando cuidado para ele não transbordar ",
+								" Retire e leve por 5 minutos no freezer. "
+								
+							]
+							
+							},
+							{ 
+								"name": "Mousse de Maracujá ",
+								"description": "Quem não tomou agora vai tomar",
+								"image": "http://vilamulher.uol.com.br/imagens/default/2008/02/19/mousse-de-maracuja-para-criancas-138-11538.jpg",
+								"ingredients": [
+									{
+										"unity": "lata",
+										"number": 1,
+										"name": "leite condensado"
+									},
+									{
+										"unity": "lata",
+										"number": 1,
+										"name": "creme de leite"
+									},
+									{
+										"unity": "ml",
+										"number": 200,
+										"name": "suco de maracujá"
+									}
+								],
+								"preparation": [
+									" Misture os ingredientes no liquidificador e bata ",
+									" Leve para uma tigela ",
+									" Deixe na geladeira por 4 horas ",
+									" Sirva "
+									
+								]
+								
+								},
+								{ 
+									"name": "Bolinha de Queijo",
+									"description": "Fácil e deliciosa, essa é a Bolinha de Queijo, um clássico das festinhas infantis, em sua versão tunada!",
+									"image": "https://www.receitadevovo.com.br/gbau/sistema/receitas/img/bolinha-de-queijo.jpg",
+									"ingredients": [
+										{
+											"unity": "g",
+											"number": 200,
+											"name": "muçarela"
+										},
+										{
+											"unity": "g",
+											"number": 150,
+											"name": "provolone"
+										},
+										{
+											"unity": "g",
+											"number": 75,
+											"name": "parmesão"
+										},
+										{
+											"unity": "g",
+											"number": 75,
+											"name": "gorgonzola"
+										},
+										{
+											"unity": "g",
+											"number": 60,
+											"name": "farinha de trigo"
+										},
+										{
+											"unity": "unidade",
+											"number": 1,
+											"name": "ovo"
+										},
+										{
+											"unity": "g",
+											"number": 150,
+											"name": "farinha de rosca"
+										}
+									],
+									"preparation": [
+										" Rale todos os queijos ",
+										" Misture todos os ingredientes em um bowl e misture até ficar uma massa homogênia ",
+										" Faça bolinhas pequenas e passe na farinha de rosca ",
+										" Frite em óleo quente até ficar dourada. ",
+										" Sirva "
+										
+									]
+									
+									},
+									{ 
+										"name": "Bolo de chocolate simples",
+										"description": "ele é tipo, estupidamente simples",
+										"image": "https://www.receitas-sem-fronteiras.com/uploads/media/hehe3.jpg?1392911693",
+										"ingredients": [
+											{
+												"unity": "pacote",
+												"number": 1,
+												"name": "mistura para bolo"
+											},
+											{
+												"unity": "ml",
+												"number": 500,
+												"name": "água com gás"
+											}
+										],
+										"preparation": [
+											" Misture todos os ingredientes em um recipiente ",
+											" Coloque em uma forma untada ",
+											" Ponha no forno pré-aquecido a 180 graus por 35 minutos ",
+											" Retire e adicione uma cobertura de sua preferencia ",
+											" Sirva "
+											
+										]
+										
+										},
+										{ 
+											"name": "Omuraisu",
+											"description": "O famoso omeletão japonês com nome de lutador do Tekken",
+											"image": "https://japanese-school-asahi.com/wp-content/uploads/2017/01/img_9517.jpg",
+											"ingredients": [
+												{
+													"unity": "g",
+													"number": 280,
+													"name": "arroz"
+												},
+												{
+													"unity": "dente",
+													"number": 1,
+													"name": "alho"
+												},
+												{
+													"unity": "unidade",
+													"number": 0.25,
+													"name": "cebola"
+												},
+												{
+													"unity": "g",
+													"number": 200,
+													"name": "molho de tomate"
+												},
+												{
+													"unity": "unidade",
+													"number": 4,
+													"name": "ovos"
+												},
+												{
+													"unity": "g",
+													"number": 8,
+													"name": "creme de leite"
+												},
+												{
+													"unity": "a gosto",
+													"number": "null",
+													"name": "ketchup"
+												},
+												{
+													"unity": "a gosto",
+													"number": "null",
+													"name": "sal"
+												},
+												{
+													"unity": "a gosto",
+													"number": "null",
+													"name": "pimenta"
+												}
+											],
+											"preparation": [
+												" Em um recipiente, adicione dois ovos, misturando-os com um garfo. Em seguida, acrescente o creme de leite, o sal e a pimenta ",
+												" Em uma frigideira, acrescente o azeite e frite o alho e a cebola até que fiquem douradas e, então, adicione o molho de tomate e o arroz cozido. Misture e reserve ",
+												" Em outra frigideira, acrescente um pouco de azeite e adicione a mistura de ovos para o preparo da omelete. Quando estiver pronta, basta colocar o arroz como recheio e decorar com catchup "
+												
+											]
+											
+											},
+											{ 
+												"name": "Mousse de limão",
+												"description": "Simples,facil e humilde #ajudanois",
+												"image": "http://s.glbimg.com/po/rc/media/2014/06/19/19_23_44_309_015180d85a5f5c3e9720821c0a5bef66.jpg",
+												"ingredients": [
+													{
+														"unity": "lata",
+														"number": 1,
+														"name": "leite condensado"
+													},
+													{
+														"unity": "lata",
+														"number": 1,
+														"name": "creme de leite"
+													},
+													{
+														"unity": "ml",
+														"number": 120,
+														"name": "suco de limão"
+													}
+												],
+												"preparation": [
+													" Coloque no liquidificador o creme de leite (com soro mesmo) e o leite condensado ",
+													" Bata um pouco e depois vá acrescentando o suco do limão, aos poucos ",
+													" Ele vai ficar bem consistente, leve à geladeira ",
+													" Sirva "
+												]
+												
+												},
+												{ 
+													"name": "Frozen Iogurte",
+													"description": "Um simples sorvete caseiro pra dias quentes",
+													"image": "http://tudomesmo.com.br/receitas/wp-content/uploads/2013/10/receita-de-sorvete-de-coco.jpg",
+													"ingredients": [
+														{
+															"unity": "potes",
+															"number": 2,
+															"name": "iogurte"
+														},
+														{
+															"unity": "g",
+															"number": 80,
+															"name": "açucar"
+														},
+														{
+															"unity": "lata",
+															"number": 1,
+															"name": "creme de leite"
+														},
+														{
+															"unity": "a gosto",
+															"number": "null",
+															"name": "cobertura de chocolate"
+														}
+													],
+													"preparation": [
+														" Em uma travessa não muito funda, misture o Iogurte, o açúcar e o Creme de Leite ",
+														" Passe para um recipiente refratário e leve ao freezer, coberto com papel alumínio por, no mínimo, 6 horas. ",
+														" Coloque em cada taça duas bolas de Frozen Iogurte, espalhe sobre elas a cobertura ",
+														" Sirva "
+													]
+													
+													}   
+]
+}
+}
+
