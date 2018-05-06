@@ -1,0 +1,317 @@
+{
+  "name": "HeyCeitas",
+  "description": "",
+  "recipes": {
+    
+    "frango": [
+      {
+      "name": "Filé de frango com molho cremoso de champignon",
+      "description": "É muito fácil  de fazer e com ingredientes simples, mas que ganha um ar mais sofisticado e de festa por conta do champingnon.",
+      "image": "http://i-exc.ccm2.net/iex/1280/1524365381/1305074.jpg",
+      "ingredients": [
+        {
+          "unity": "unidades",
+          "number": 2,
+          "name": "peitos de frango"
+        },
+        {
+          "unity": "g",
+          "number": 12,
+          "name": "manteiga"
+        },
+        {
+          "unity": "ml",
+          "number": 8,
+          "name": "óleo "
+        },
+        {
+          "unity": "unidade",
+          "number": 1,
+          "name": "cebola picada"
+        },
+        {
+          "unity": "dentes",
+          "number": 2,
+          "name": "alho picado"
+        },
+        {
+          "unity": "g",
+          "number": 100,
+          "name": "champignon"
+        },
+        {
+          "unity": "a gosto",
+          "number": null,
+          "name": "sal"
+        },
+        {
+          "unity": "a gosto",
+          "number": null,
+          "name": "pimenta do reino"
+        },
+        {
+          "unity": "caixa",
+          "number": 1,
+          "name": "creme de leite"
+        }
+      ],
+      "preparation": [
+        " Corte cada peito de frango ao meio no sentido do comprimento. Você ficará com 4 pedaços ",
+        " Coloque a manteiga e o óleo em uma frigideira e deixe esquentar bem ",
+        " Coloque dois pedaços de frango e deixe fritar ",
+        " Assim que ficar dourado, vire polvilhe sal e pimenta do reino moída e deixe fritar do outro lado, depois polvilhe sal e pimenta do outro lado também. Faça isso com todos os pedaços. Retire da frigideira e reserve ",
+        " Na frigideira onde você fritou o frango, coloque a cebola picadinha e o alho espremido, deixe fritar bem, Acrescente o champignon fatiado e o creme de leite e misture bem. Deixe aquecer, mas não ferver para não talhar ",
+        " Coloque o molho em uma travessa, fatie os peitos de frango e arrume na travessa com o molho. Enfeite com ervas ",
+        " Sirva "
+     ]
+      
+    },
+    { 
+    "name": "Tiras de frango com repolho cremoso",
+    "description": "Simples, rapida e nutritiva",
+    "image": "http://4.bp.blogspot.com/-P62LsFYTTyg/VeThoUTmQ5I/AAAAAAAABvA/Xy5QAQ9OuhA/s1600/Frango%2Bcom%2Brepolho%2Bcremoso.JPG",
+    "ingredients": [
+      {
+        "unity": "g",
+        "number": 600,
+        "name": "frango"
+      },
+      {
+        "unity": "a gosto",
+        "number": null,
+        "name": "sal"
+      },
+      {
+        "unity": "unidade",
+        "number": 1,
+        "name": "repolho verde"
+      },
+      {
+        "unity": "g",
+        "number": 20,
+        "name": "manteiga"
+      },
+      {
+        "unity": "g",
+        "number": 10,
+        "name": "bacon"
+      },
+      {
+        "unity": "g",
+        "number": 30,
+        "name": "creme de leite"
+      },
+      {
+        "unity": "g",
+        "number": 20,
+        "name": "requeijão"
+      },
+      {
+        "unity": "g",
+        "number": 100,
+        "name": "queijo muçarela"
+      },
+      {
+        "unity": "dentes",
+        "number": 3,
+        "name": "alho picado"
+      },
+      {
+        "unity": "a gosto",
+        "number": null,
+        "name": "pimenta"
+      }
+    ],
+    "preparation": [
+      " Corte o peito de frango em tiras grossas e tempere com o alho picado, sal e pimenta. Reserve ",
+      " Corte o repolho pela metade e depois pique o repolho lateralmente em fatias finas, Reserve ",
+      " Em uma frigideira grande, frite o frango temperado na manteiga. Se precisar frite em duas ou três “viagens”, para evitar que o seu frango solte água e cozinhe. Transfira o frango frito para um prato e reserve ",
+      " Na mesma frigideira que usou para fritar o frango, frite o bacon na própria gordura até ficar douradinho",
+      " Adicione o repolho e a cenoura ralada e refogue até amolecer. Tempere com sal e pimenta ",
+      " Adicione o requeijão, a nata e o queijo e mexa até o queijo derreter e o molho ficar bem cremoso ",
+      " Adicione o frango frito por cima e afunde um pouco com uma colher para ele ficar bem melecadinho com o molho"
+    ]
+    
+  },
+  { 
+  "name": "Frango ao molho de catupiry",
+  "description": "Uma versão turbinada do filezinho de frango",
+  "image": "http://receitasdecomidas.com.br/wp-content/uploads/2016/05/379x252xfrango-molho-catupiry-420x279.jpg.pagespeed.ic.T8XBx92cYa.jpg",
+  "ingredients": [
+    {
+      "unity": "g",
+      "number": 200,
+      "name": "frango"
+    },
+    {
+      "unity": "dentes",
+      "number": 1,
+      "name": "alho"
+    },
+    {
+      "unity": "unidade",
+      "number": 0.50,
+      "name": "cebola"
+    },
+    {
+      "unity": "g",
+      "number": 150,
+      "name": "catupiry"
+    },
+    {
+      "unity": "g",
+      "number": 8,
+      "name": "farinha de trigo"
+    },
+    {
+      "unity": "g",
+      "number": 12,
+      "name": "manteiga"
+    },
+    {
+      "unity": "ml",
+      "number": 700,
+      "name": "leite"
+    },
+    {
+      "unity": "lata",
+      "number": 1,
+      "name": "creme de leite"
+    },
+    {
+      "unity": "a gosto",
+      "number": null,
+      "name": "sal"
+    },
+    {
+      "unity": "a gosto",
+      "number": null,
+      "name": "pimenta"
+    }
+  ],
+  "preparation": [
+    " Coloque um fio de azeite para aquecer em uma panela ",
+    " Doure a cebola e o alho, em seguida, coloque o frango para fritar,espere até dourar os dois lados,retire e reserve ",
+    " Em uma panela, coloque a margarina e espere derreter,acrescente o restante dos ingredientes e misture até o molho atingir uma consistência grossa e homogênea ",
+    " Despeje o molho em cima do frango pronto ",
+    " Sirva "
+    
+  ]
+  
+},
+{ 
+"name": "Peito de frango recheado com coppa e requeijão cremoso",
+"description": "Uma receita simples, porem demorada, você vai desejar estar em posse da joia do tempo",
+"image": "http://cozinhatravessa.com.br/wp-content/uploads/2014/09/CozinhaTravessa_20.jpg?8604ca",
+"ingredients": [
+  {
+    "unity": "unidade",
+    "number": 2,
+    "name": "peitos de frango"
+  },
+  {
+    "unity": "a gosto",
+    "number": null,
+    "name": "coppa fatiado"
+  },
+  {
+    "unity": "a gosto",
+    "number": null,
+    "name": "requeijão"
+  },
+  {
+    "unity": "ml",
+    "number": 100,
+    "name": "azeite"
+  },
+  {
+    "unity": "a gosto",
+    "number": null,
+    "name": "pimenta"
+  },
+  {
+    "unity": "a gosto",
+    "number": null,
+    "name": "sal"
+  },
+  {
+    "unity": "g",
+    "number": 3,
+    "name": "gengibre em pó"
+  }
+],
+"preparation": [
+  " Faça um corte com a faca larga no centro dos peitos de frango, mas deixe o peito separar ",
+  " Preencha o buraco com copa de colheradas de requeijão (o quanto baste) ",
+  " Coloque os peitos num refratário e tempere com sal e pimenta moída na hora. Salpique uma pitada de gengibre em pó e misture tudo com as mãos, envolvendo a ave nos temperos ",
+  " Depois regue com óleo de coco, três colheradas para cada peito. Se não tiver ou não quiser usar o óleo de coco, regue com azeite ",
+  " Cubra com papel alumínio e leve ao forno preaquecido 200 graus. Depois de uns 50 a 60 minutos, os peitos já estarão cozidos, retire o papel alumínio, diminua o forno para 180 graus e deixe dourar por mais uns 30 minutos ou mais ",
+  " Retire, fatie em rodelas grossas e volte para o forno por mais uns 5 a 10 minutos ",
+  " Retire e sirva "
+]
+
+},
+{
+"name": "Filé de frango com molho de laranja",
+"description": "É bem fácil, rápido e dá uma incrementada no franguinho nosso de cada dia. ",
+"image": "https://www.receitadevovo.com.br/gbau/sistema/receitas/img/frango-ao-molho-de-laranja.JPG",
+"ingredients": [
+  {
+    "unity": "unidade",
+    "number": 4,
+    "name": "filés de frango"
+  },
+  {
+    "unity": "dentes",
+    "number": 2,
+    "name": "alho amassados"
+  },
+  {
+    "unity": "a gosto",
+    "number": null,
+    "name": "pimenta"
+  },
+  {
+    "unity": "a gosto",
+    "number": null,
+    "name": "sal"
+  },
+  {
+    "unity": "ml",
+    "number": 30,
+    "name": "óleo"
+  },
+  {
+    "unity": "ml",
+    "number": 250,
+    "name": "suco de laranja natural"
+  },
+  {
+    "unity": "g",
+    "number": 4,
+    "name": "manteiga"
+  },
+  {
+    "unity": "g",
+    "number": 6,
+    "name": "amido de milho"
+  },
+  {
+    "unity": "g",
+    "number": 4,
+    "name": "açúcar"
+  }
+],
+"preparation": [
+  " Coloque os filés de frango em uma tigela e tempere com o alho amassado, o sal e a pimenta do reino, misture bem e deixe tomando gosto por no mínimo 30 minutos ",
+  " Depois aqueça o óleo em uma frigideira e frite os filés ",
+  " Coloque-os na frigideira quente e só vire os filés quando eles já estiverem dourados ",
+  " Não fure os filés para eles não ressecarem e nem fique esfregando ele na frigideira, coloque eles lá e só vire quando dourar. Assim que dourar dos dois lados, já está pronto. Reserve ",
+  " Dissolva o amido de milho com o açúcar e o suco de laranja. Coloque em uma panela, junte a manteiga e leve ao fogo. Deixe ferver, mexendo sempre. Ferva alguns minutos até ele ficar levemente cremoso ",
+  " Arrume os filés em uma travessa, coloque o molho por cima e polvilhe com folhinhas de manjericão. Sirva quente. "
+]
+
+}
+]
+}
+}
