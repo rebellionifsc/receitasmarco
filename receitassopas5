@@ -1,0 +1,265 @@
+{
+  "name": "HeyCeitas",
+  "description": "",
+  "recipes": {
+    
+    "sopas": [
+      {
+      "name": "Sopa creme de ervilha",
+      "description": "Deliciosamente simples",
+      "image": "https://1344552651.rsc.cdn77.org/prod/imagens/receita/14167/sopa-creme-de-ervilha-11979.jpg",
+      "ingredients": [
+        {
+          "unity": "g",
+          "number": 100,
+          "name": "bacon"
+        },
+        {
+          "unity": "g",
+          "number": 200,
+          "name": "linguiça portuguesa"
+        },
+        {
+          "unity": "ml",
+          "number": 15,
+          "name": "óleo "
+        },
+        {
+          "unity": "g",
+          "number": 250,
+          "name": "ervilha"
+        },
+        {
+          "unity": "l",
+          "number": 1,
+          "name": "água"
+        },
+        {
+          "unity": "unidade",
+          "number": 1,
+          "name": "cebola"
+        },
+        {
+          "unity": "a gosto",
+          "number": null,
+          "name": "sal"
+        },
+        {
+          "unity": "a gosto",
+          "number": null,
+          "name": "pimenta calabresa"
+        }
+      ],
+      "preparation": [
+        " Na panela de pressão, doure o bacon na própria gordura até começar a ficar crocante. Adicione a linguiça e refogue por uns 2 minutos ",
+        " Junte a água, a cebola, a ervilha, a pimenta e sal a gosto e deixe cozinhar por 25 minutos, em fogo médio, após o início da fervura (chiado) ",
+        " Libere a pressão sob água corrente e mexa a sopa. A ervilha deverá estar desfeita, como se tivesse sido batida no liquidificador (se necessário, junte mais água e deixe ferver um pouco mais com a panela destampada) ",
+        " Sirva"
+     ]
+      
+    },
+    { 
+    "name": "Sopa de abóbora e manjericão",
+    "description": "Simples, rapida e nutritiva",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449089459",
+    "ingredients": [
+      {
+        "unity": "g",
+        "number": 500,
+        "name": "abóbora"
+      },
+      {
+        "unity": "ml",
+        "number": 45,
+        "name": "óleo"
+      },
+      {
+        "unity": "unidade",
+        "number": 1,
+        "name": "cebola"
+      },
+      {
+        "unity": "dentes",
+        "number": 5,
+        "name": "alho"
+      },
+      {
+        "unity": "l",
+        "number": 1,
+        "name": "caldo de legumes"
+      },
+      {
+        "unity": "g",
+        "number": 80,
+        "name": "manjericão"
+      }
+    ],
+    "preparation": [
+      " Com uma faca afiada, descasque a moranga, retire as sementes e corte-a em cubos ",
+      " Aqueça o óleo em fogo alto na panela de pressão e doure a cebola e o alho. Acrescente a abóbora picada, o caldo e o manjericão, misture e deixe ferver ",
+      " Abaixe o fogo, tampe a panela e cozinhe por 20 minutos, marcados após o início da fervura ",
+      " Apague o fogo e espere a pressão esgotar naturalmente para abrir a panela. Amasse os pedaços de abóbora com as costas de uma concha, acerte o sal e sirva a sopa imediatamente"
+    ]
+    
+  },
+  { 
+  "name": "Caldo de couve-flor",
+  "description": "Simples,saudável e deliciosa",
+  "image": "http://s2.glbimg.com/74Nwy6rqG74XfvQSM_eMvURV-Q4=/s.glbimg.com/et/gs/f/original/2016/11/21/sopa_de_couve-flor.jpg",
+  "ingredients": [
+    {
+      "unity": "ml",
+      "number": 15,
+      "name": "azeite"
+    },
+    {
+      "unity": "unidade",
+      "number": 1,
+      "name": "cebola"
+    },
+    {
+      "unity": "dentes",
+      "number": 2,
+      "name": "alho"
+    },
+    {
+      "unity": "unidade",
+      "number": 1,
+      "name": "couve-flor"
+    },
+    {
+      "unity": "l",
+      "number": 2,
+      "name": "água"
+    },
+    {
+      "unity": "g",
+      "number": 30,
+      "name": "cebolinha verde picada"
+    },
+    {
+      "unity": "a gosto",
+      "number": null,
+      "name": "sal"
+    },
+    {
+      "unity": "a gosto",
+      "number": null,
+      "name": "pimenta"
+    }
+  ],
+  "preparation": [
+    " Aqueça o azeite em fogo médio e refogue a cebola e o alho até dourar levemente. Adicione a couve-flor e a água e deixe cozinhar por 25 minutos ",
+    " Transfira para o copo do liquidificador e bata até triturar bem. Coe, leve de volta ao fogo baixo e tempere com sal e pimenta-do-reino a gosto. Deixe levantar fervura, salpique cebolinha verde a gosto e sirva em seguida "
+    
+  ]
+  
+},
+{ 
+"name": "Sopa de mandioquinha com calabresa",
+"description": "Uma sopa creme,  encorpada ao mesmo tempo delicada, super cremosa e saborosa. ",
+"image": "https://img.cybercook.uol.com.br/imagens/receitas/320/caldo-de-mandioquinha-com-calabresa.jpg",
+"ingredients": [
+  {
+    "unity": "g",
+    "number": 500,
+    "name": "mandioquinha"
+  },
+  {
+    "unity": "unidade",
+    "number": 1,
+    "name": "linguiça calabresa"
+  },
+  {
+    "unity": "ml",
+    "number": 900,
+    "name": "água quente"
+  },
+  {
+    "unity": "unidade",
+    "number": 1,
+    "name": "cebola"
+  },
+  {
+    "unity": "dentes",
+    "number": 3,
+    "name": "alho"
+  },
+  {
+    "unity": "a gosto",
+    "number": null,
+    "name": "pimenta"
+  },
+  {
+    "unity": "ml",
+    "number": 15,
+    "name": "azeite"
+  }
+],
+"preparation": [
+  " Descasque a mandioquinha – batata baroa e corte-as em pedaços menores ",
+  " Corte a cebola em cubos pequenos, uniformes e regulares.Reserve ",
+  " Retire a pele da linguiça calabresa e corte-a em fatias ",
+  " Em uma panela, coloque o azeite e a linguiça calabresa fatiada ",
+  " Deixe dourar bem até que forme uma ‘crostinha’ no fundo da panela ",
+  " Coloque os 3 dentes de alho picados  ou amassados, misture deixe dourar por 1 minuto, e junte 1 cebola picada e deixando  por mais 1-2 minutos até ela  ficar translúcida ",
+  " Coloque a mandioquinha,  tempere com a pimenta do reino, ainda não adicione sal.Junte 3-4 xícaras de água fervente, tampe e deixe cozinhar por 15 minutos. ",
+  " Com ajuda de um garfo, separe as linguiças calabresa, reserve num prato a parte, e com o mixer, na panela mesmo, liquidifique o restante.",
+  " Também pode ser batida no liquidificador ou passada na peneira para fazer o creme.Depois de liquidificada, devolva as linguiças reservadas ao caldo cremoso.",
+  " Tempere com azeite extra virgem, mais pimenta do reino ralada na hora, 1/3 de xicara de cebolinha picada.",
+  " Sirva"
+]
+
+},
+{
+"name": "Creme de espinafre",
+"description": "Popeye aprova e recomenda. ",
+"image": "https://t2.rg.ltmcdn.com/pt/images/3/7/5/img_creme_de_espinafre_facil_4573_600.jpg",
+"ingredients": [
+  {
+    "unity": "g",
+    "number": 300,
+    "name": "espinafre"
+  },
+  {
+    "unity": "ml",
+    "number": 15,
+    "name": "leite"
+  },
+  {
+    "unity": "g",
+    "number": 50,
+    "name": "manteiga"
+  },
+  {
+    "unity": "g",
+    "number": 30,
+    "name": "farinha de trigo"
+  },
+  {
+    "unity": "a gosto",
+    "number": null,
+    "name": "Noz-moscada"
+  },
+  {
+    "unity": "a gosto",
+    "number": null,
+    "name": "pimenta"
+  },
+  {
+    "unity": " a gosto",
+    "number": null,
+    "name": "sal"
+  }
+],
+"preparation": [
+  " Leve uma panela média com a manteiga ao fogo baixo. Quando derreter, junte a farinha e mexa bem por 2 minutos, até ficar levemente dourada ",
+  " Adicione o leite gelado de uma só vez e mexa vigorosamente com um batedor de arame para não empelotar. Quando a mistura de farinha dissolver, aumente o fogo para médio. Tempere com nozmoscada e cozinhe, sem parar de mexer, até engrossar (cerca de 10 minutos) ",
+  " Acrescente o espinafre congelado e mexa para que os cubos derretam e o creme fique uniforme. Tempere com sal a gosto ",
+  " Cozinhe em fogo médio, sem parar de mexer, por mais 10 minutos (ou até o creme atingir a consistência desejada). Sirva a seguir com bife ou filé de carnes, aves ou peixes "
+]
+
+}
+]
+}
+}
