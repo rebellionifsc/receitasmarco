@@ -1,0 +1,247 @@
+{
+  "name": "HeyCeitas",
+  "description": "",
+  "recipes": {
+    
+    "doces": [
+      {
+      "name": "Brownie Australiano",
+      "description": "Uma receita para fazer um brownie em 20 minutos",
+      "image": "http://www.receitasdecomidas.com.br/wp-content/uploads/2013/10/brownie-australiano-.jpg",
+      "ingredients": [
+        {
+          "unity": "g",
+          "number": 160,
+          "name": "açúcar"
+        },
+        {
+          "unity": "g",
+          "number": 60,
+          "name": "farinha de trigo"
+        },
+        {
+          "unity": "unidades",
+          "number": 2,
+          "name": "ovos"
+        },
+        {
+          "unity": "g",
+          "number": 5,
+          "name": "baunilha"
+        },
+        {
+          "unity": "g",
+          "number": 50,
+          "name": "manteiga sem sal derretida"
+        },
+        {
+          "unity": "g",
+          "number": 45,
+          "name": "chocolate em pó sem açúcar"
+        },
+        {
+          "unity": "g",
+          "number": 75,
+          "name": "barra de chocolate ao leite"
+        },
+        {
+          "unity": "g",
+          "number": 140,
+          "name": "macadamias picadas em pedaços não muito pequenos"
+        }
+      ],
+      "preparation": [
+        " Misture os ingredientes nesta ordem até obter uma massa homogênea. ",
+        " Unte uma tijela retangular (que caiba no seu microondas). ",
+        " Despeje a massa e leve ao microondas por cerca de 5 a 7 minutos (vai depender da potencia do seu aparelho). ",
+        " Fazendo o teste de espetar um palito de dentes, ele deve voltar limpo. ",
+        " Retire do microondas. espere esfriar um pouco. ",
+        " Corte em pedaços retangulares ainda morno. "
+      ]
+      
+    },
+     {
+      "name": "Pudim de sorvete",
+      "description": "Juntando duas sobremesas em uma",
+      "image": "https://t1.rg.ltmcdn.com/pt/images/3/2/5/img_pudim_de_sorvete_facil_6523_600.jpg",
+      "ingredients": [
+        {
+          "unity": "lata",
+          "number": 1,
+          "name": "leite condensado"
+        },
+        {
+          "unity": "lata",
+          "number": 2,
+          "name": "leite líquido (use a lata de leite condensado como medida)"
+        },
+        {
+          "unity": "unidades",
+          "number": 4,
+          "name": "ovos"
+        },
+        {
+          "unity": "lata",
+          "number": 1,
+          "name": "creme de leite"
+        },
+        {
+          "unity": "g",
+          "number": 50,
+          "name": "açúcar"
+        }
+      ],
+      "preparation": [
+        " Em uma panela coloque o leite condensado, o leite e as gemas ",
+        " Levar ao fogo sem levantar fervura ",
+        " Quando esfriar acrescente o creme de leite sem o soro, reserve ",
+        " Bater as claras com o açúcar na batedeira em ponto de suspiro ",
+        " Acrescente esse suspiro no creme reservado ",
+        " Coloque em forma para pudim untada com uma calda de chocolate de sua preferência", 
+        " Leve ao freezer por 6 horas ou mais dependendo do seu freezer, retire e espere uns minutinhos para desenformar "
+      ]
+     },
+     {
+      "name": "Pavê de Negresco",
+      "description": "Uma ótima sobremesa para comer em família, 'mas é pa vê ou pa comê'? ",
+      "image": "https://i.ytimg.com/vi/CLSRJDv3Q80/maxresdefault.jpg",
+      "ingredients": [
+        {
+          "unity": "pacote",
+          "number": 1,
+          "name": "Negresco"
+        },
+        {
+          "unity": "embalagem",
+          "number": 1,
+          "name": "cream cheese"
+        },
+        {
+          "unity": "g",
+          "number": 40,
+          "name": "açúcar"
+        },
+        {
+          "unity": "lata",
+          "number": 1,
+          "name": "creme de leite sem soro"
+        },
+        {
+          "unity": "g",
+          "number": 250,
+          "name": "chocolate ao leite picado"
+        }
+      ],
+      "preparation": [
+        " No fundo de uma forma tipo bolo inglês, forrada com papel alumínio, coloque 8 biscoitos ",
+        " No liquidificador, triture o restante dos biscoitos e reserve ",
+        " Na batedeira, bata o cream cheese, o açúcar e metade do creme de leite ",
+        " Distribua sobre os biscoitos ",
+        " Por cima espalhe o biscoito triturado e assente com o auxílio de uma colher ",
+        " Derreta o chocolate em banho-maria, misture o restante do creme de leite e coloque sobre o biscoito triturado", 
+        " Leve ao freezer no mínimo 3 horas ",
+        " Na hora de servir, desenforme "
+      ]
+     },
+     {
+      "name": "Bolinho frito de leite condensado.",
+      "description": "Parece um bolinho de chuva, mas é só um bolinho de leite condensado",
+      "image": "http://www.progresso.am.br/galerias/noticias/1000/0551_bolinhofritodeleitecondensado.jpg",
+      "ingredients": [
+        {
+          "unity": "unidade",
+          "number": 4,
+          "name": "ovos"
+        },
+        {
+          "unity": "g",
+          "number": 12,
+          "name": "margarina"
+        },
+        {
+          "unity": "caixa",
+          "number": 1,
+          "name": "leite condensado"
+        },
+        {
+          "unity": "g",
+          "number": 10,
+          "name": "fermento"
+        },
+        {
+          "unity": "g",
+          "number": 360,
+          "name": "farinha de trigo"
+        },
+        {
+          "unity": null,
+          "number": null,
+          "name": "óleo para fritar"
+        },
+        {
+          "unity": null,
+          "number": null,
+          "name": "Opcional açúcar e canela em pó para polvilhar"
+        }
+      ],
+      "preparation": [
+        " No liquidificador bata os ovos, a margarina, o leite condensado e o fermento ",
+        " Depois disso coloque o liquido em uma tigela, acrescente a farinha de trigo aos poucos, mexa a massa até ficar bem misturada ",
+        " Com auxilio de 2 colheres molde os bolinhos e frite em óleo quente até dourar ",
+        " Coloque os bolinhos no papel absorvente para escorrer a gordura ",
+        " Misture o açúcar e a canela e polvilhe por cima dos bolinhos, ou sem polvilhar o açúcar e a canela, faça um furinho na lata de leite condensado e coloque por cima dos bolinhos ou então não coloque nada por cima, que mesmo assim fica uma delícia "
+      ]
+     },
+         {
+      "name": "Torta alemã",
+      "description": "ein köstlicher Kuchen mit Ihrem Begleiter zu essen",
+      "image": "http://s.glbimg.com/po/rc/media/2015/03/30/21_48_32_114_Torta_alem_2.jpg",
+      "ingredients": [
+        {
+          "unity": "g",
+          "number": 200,
+          "name": "manteiga (sem sal)"
+        },
+        {
+          "unity": "g",
+          "number": 160,
+          "name": "açúcar"
+        },
+        {
+          "unity": "lata",
+          "number": 1,
+          "name": "creme de leite"
+        },
+        {
+          "unity": "pacote",
+          "number": 1,
+          "name": "bolacha de maizena"
+        },
+        {
+          "unity": null,
+          "number": null,
+          "name": "leite (para molhar a bolacha)"
+        },
+        {
+          "unity": "lata",
+          "number": 1,
+          "name": "leite condensado de chocolate, ou cobertura de sorvete"
+        }
+      ],
+      "preparation": [
+        " Coloque a manteiga e o açúcar na batedeira e bata até obter um creme bem fofo e liso ",
+        " Acrescente o creme de leite e bata rapidamente apenas para misturar ",
+        " Desligue a batedeira e reserve ",
+        " Separe um recipiente médio para montar o doce ",
+        " Acrescente um pouco de leite num prato fundo e molhe rapidamente algumas bolachas maisena no leite ",
+        " Forre o fundo do recipiente escolhido com uma camada de bolachas ",
+        " Acrescente uma camada do creme reservado sobre as bolachas ",
+        " Acrescente mais uma camada de bolachas molhadas no leite e repita o procedimento finalizando com a bolacha ",
+        " Cubra a última camada de bolachas com o leite condensado sabor chocolate (comprado pronto ou a cobertura) ",
+        " Leve à geladeira por no mínimo 3 horas ou até que o doce fique bem gelado ",
+        " Retire o doce da geladeira e sirva a seguir "
+      ]
+     }
+     ]
+   }
+    }
