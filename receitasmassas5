@@ -1,0 +1,336 @@
+{
+	"name": "HeyCeitas",
+	"description": "",
+	"recipes": {
+		
+		"massas": [
+			{
+			"name": "Crepe de carne seca e catupiry",
+			"description": "Rango simples,rapido e delicioso",
+			"image": "http://static.pedidor.com/carne-seca-com-catupiry-imgp-b1-512e1b6a8bc391af44000005-512faf108bc391d54c000004-717a6ad772636854991a3bbc1e84cf3c.jpeg",
+			"ingredients": [
+				{
+					"unity": "unidade",
+					"number": 1,
+					"name": "ovo"
+				},
+				{
+					"unity": "ml",
+					"number": 360,
+					"name": "leite"
+				},
+				{
+					"unity": "g",
+					"number": 120,
+					"name": "farinha de trigo"
+				},
+				{
+					"unity": "g",
+					"number": 6,
+					"name": "manteiga"
+				},
+				{
+					"unity": "a gosto",
+					"number": null,
+					"name": "sal"
+				},
+				{
+					"unity": "g",
+					"number": 400,
+					"name": "carne seca"
+				},
+				{
+					"unity": "g",
+					"number": 300,
+					"name": "requeijão"
+				}
+			],
+			"preparation": [
+				" Para a massa, bata o ovo,o leite,o sal,a manteiga e a farinha de trigo no liquidificador ",
+				" Depois leve ao refrigerador e aguarde uns 30 minutos ",
+				" Untar uma frigideira antiaderente com um pouquinho de manteiga e colocar massa suficiente para “forrar” o fundo e um pouco das laterais ",
+				" Deixe em fogo baixo e quando estiver pronta do lado de baixo, ela soltará da frigideira e aí você poderá virar para cozinhar do outro lado e depois rechear no prato ",
+				" Adicione a carne seca o requeijão ",
+				" Sirva "
+				
+			]
+			
+        },
+		{ 
+		"name": "Fettuccine com camarão",
+		"description": "Forrest Gump ficaria orgulhoso",
+		"image": "http://2.bp.blogspot.com/-naBTXHwp71Q/USvgo16T7HI/AAAAAAAAASQ/ds9CyFvnjXM/s640/IMG_9939.jpg",
+		"ingredients": [
+			{
+				"unity": "g",
+				"number": 200,
+				"name": "macarrão"
+			},
+			{
+				"unity": "g",
+				"number": 6,
+				"name": "manteiga"
+			},
+			{
+				"unity": "g",
+				"number": 300,
+				"name": "camarão pré-cozido"
+			},
+			{
+				"unity": "ml",
+				"number": 45,
+				"name": "azeite"
+			},
+			{
+				"unity": "ml",
+				"number": 80,
+				"name": "leite"
+			},
+			{
+				"unity": "unidade",
+				"number": 0.5,
+				"name": "cebola"
+			},
+			{
+				"unity": "unidade",
+				"number": 1,
+				"name": "caldo de camarão"
+			},
+			{
+				"unity": "ml",
+				"number": 80,
+				"name": "creme de leite"
+			},
+			{
+				"unity": "g",
+				"number": 120,
+				"name": "mascarpone"
+			},
+			{
+				"unity": "a gosto",
+				"number": null,
+				"name": "sal"
+			},
+			{
+				"unity": "a gosto",
+				"number": null,
+				"name": "pimenta"
+			}
+		],
+		"preparation": [
+			" Ferva a água, prepare o macarrão e reserve ",
+			" Numa frigideira, coloque a manteiga e deixe tudo preparado para na hora de finalizar os pratos, fritar rapidamente os camarões. ",
+			" Em outra frigideira ou panela grande, (precisa ser grande porque a massa será finalizada junto com o molho nesta panela), coloque o azeite e frite um dente de alho picado caso tenha ",
+			" Depois acrescente o leite quente e o caldo de camarão já dissolvido neste leite. Misture bem e siga adicionando o creme de leite e o mascarpone. ",
+			" Tempere com sal e pimenta e mexa até que fique mais cremoso. ",
+			" Misture a massa com o molho",
+			" Paralelamente frite os camarões em uma frigideira ",
+			" Coloque a massa com o molho em um prato, depois alguns camarões ",
+			" Sirva "
+		]
+		
+	},
+	{ 
+	"name": "Lasanha de estrogonofe",
+	"description": "Acho que o nome já é autoexplicativo",
+	"image": "https://cdn.mytaste.org/i?u=group2%2FM00%2F24%2F3E%2FCgAIN1gTjgmAfK8GAAD7Zn1x7Jw194.jpg&w=330&h=270&c=1",
+	"ingredients": [
+		{
+			"unity": "g",
+			"number": 350,
+			"name": "peito de frango"
+		},
+		{
+			"unity": "ml",
+			"number": 30,
+			"name": "óleo"
+		},
+		{
+			"unity": "g",
+			"number": 50,
+			"name": "champignon fatiado"
+		},
+		{
+			"unity": "ml",
+			"number": 15,
+			"name": "molho inglês"
+		},
+		{
+			"unity": "g",
+			"number": 12,
+			"name": "mostarda"
+		},
+		{
+			"unity": "g",
+			"number": 12,
+			"name": "catchup"
+		},
+		{
+			"unity": "a gosto",
+			"number": null,
+			"name": "sal"
+		},
+		{
+			"unity": "g",
+			"number": 100,
+			"name": "creme de leite"
+		},
+		{
+			"unity": "ml",
+			"number": 360,
+			"name": "leite"
+		},
+		{
+			"unity": "g",
+			"number": 9,
+			"name": "amido de milho"
+		},
+		{
+			"unity": "pacote",
+			"number": 1,
+			"name": "massa fresca para lasanha"
+		},
+		{
+			"unity": "g",
+			"number": 200,
+			"name": "queijo ralado"
+		}
+	],
+	"preparation": [
+		" Coloque o óleo em uma panela e aqueça em fogo alto. ",
+		" Quando estiver quente, coloque o frango e sem mexer muito, frite o frango até que mude de cor. ",
+		" Em seguida, acrescente o champignon e aí comece a colocar os temperos: molho inglês, mostarda e  catchup. ",
+		" Misture bem, deixe por dois minutinhos e aí acrescente o sal se necessário, e o creme de leite. ",
+		" Misture bem, desligue o fogo e reserve. ",
+		" Coloque o leite numa panela e em seguida adicione o amido de milho misturando bem até que ele desapareça. ",
+		" Leve ao fogo e mexa até engrossar. Reserve. ",
+		" Use um refratário retangular de aproximadamente (30 x 20cm) ",
+		" Coloque 1/2 xícara de leite no fundo do refratário para que cubra o fundo completamente sem formar uma camada grossa. ",
+		" Coloque então uma camada de massa-Uma de queijo-Massa novamente-O estrogonofe-Massa-Queijo-Molho branco-Queijo.",
+		" Leve ao forno preaquecido a 200ºC, por uns 20 ou 25 minutos.",
+		" Sirva"
+	]
+	
+},
+{ 
+"name": "Penne alla vodca",
+"description": "A massa é ideal para dias frios acompanhada de um bom vinho",
+"image": "http://s3.amazonaws.com/finecooking.s3.tauntonclud.com/app/uploads/2017/04/18122729/051135026-01-penne-alla-vodka-recipe-main.jpg",
+"ingredients": [
+	{
+		"unity": "pacote",
+		"number": 1,
+		"name": "macarrão"
+	},
+	{
+		"unity": "lata",
+		"number": 1,
+		"name": "molho de tomate"
+	},
+	{
+		"unity": "dente",
+		"number": 1,
+		"name": "alho"
+	},
+	{
+		"unity": "ml",
+		"number": 80,
+		"name": "azeite"
+	},
+	{
+		"unity": "g",
+		"number": 10,
+		"name": "pimenta calabresa"
+	},
+	{
+		"unity": "ml",
+		"number": 250,
+		"name": "creme de leite"
+	},
+	{
+		"unity": "ml",
+		"number": 50,
+		"name": "Vodka"
+	},
+	{
+		"unity": "a gosto",
+		"number": null,
+		"name": "sal"
+	}
+],
+"preparation": [
+	" Ponha a massa para cozinhar em uma panela grande ",
+	" Descasque e pique o alho bem fininho. Reserve. ",
+	" Ponha o azeite numa frigideira, junte o alho picado. Acenda o fogo e refogue por 30 segundos, cuidando para não deixar o alho escurecer (se dourar, descarte e comece de novo, porque alho muito passado amarga o molho) ",
+	" Junte o molho de tomate e cozinhe por 10 minutos ou até começar a engrossar. Tempere com sal e pimenta calabresa. Desligue o fogo. Aqueça o molho um pouco antes de escorrer a massa ",
+	" Escorra a massa um minuto antes de estar pronta e ponha na panela com o molho. Mexa para misturar bem ",
+	" Ponha a vodca, misture, deixe cozinhar por 30 segundos ",
+	" Junte o creme de leite, mexa e deixe cozinhar por um minuto ",
+	" Tire do fogo, ponha no prato de servir e leve à mesa. Se quiser, rale queijo parmesão por cima"
+]
+
+},
+{
+"name": "Espaguete com tomate-cereja e requeijão",
+"description": "Acho que o nome já é autoexplicativo",
+"image": "http://santagiulia.com.br/wp-content/uploads/2015/08/espaguete.jpg",
+"ingredients": [
+	{
+		"unity": "ml",
+		"number": 45,
+		"name": "azeite"
+	},
+	{
+		"unity": "dente",
+		"number": 1,
+		"name": "alho"
+	},
+	{
+		"unity": "g",
+		"number": 250,
+		"name": "tomate cereja picado"
+	},
+	{
+		"unity": "copo",
+		"number": 0.50,
+		"name": "requeijão"
+	},
+	{
+		"unity": "g",
+		"number": 20,
+		"name": "manjericão"
+	},
+	{
+		"unity": "g",
+		"number": 40,
+		"name": "queijo ralado"
+	},
+	{
+		"unity": "g",
+		"number": 400,
+		"name": "macarrão"
+	},
+	{
+		"unity": "a gosto",
+		"number": null,
+		"name": "sal"
+	},
+	{
+		"unity": "a gosto",
+		"number": null,
+		"name": "pimenta"
+	}
+],
+"preparation": [
+	" Em uma frigideira grande, aqueça o azeite e doure o alho ",
+	" Acrescente o tomate, o sal e a pimenta. Mexa delicadamente ",
+	" Tampe a panela e deixe refogar em fogo brando por 2 minutos ",
+	" Junte o requeijão e misture até derreter ",
+	" Desligue o fogo, acrescente as folhas de manjericão e o queijo ralado ",
+	" Misture ligeiramente com o espaguete e sirva em seguida "
+]
+    
+}
+]
+}
+}
