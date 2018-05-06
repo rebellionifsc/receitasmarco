@@ -1,0 +1,333 @@
+{
+  "name": "HeyCeitas",
+  "description": "",
+  "recipes": {
+    
+    "carnes": [
+      {
+      "name": "Picanha Recheada",
+      "description": "Aprenda a fazer uma picanha super suculenta e saborosa.",
+      "image": "https://truffle-assets.imgix.net/a70589ab-picanha-recheada_l_thumb.jpg",
+      "ingredients": [
+        {
+          "unity": "kg",
+          "number": 1,
+          "name": "picanha"
+        },
+        {
+          "unity": "unidade",
+          "number": 0.5,
+          "name": "cebola roxa em tiras"
+        },
+        {
+          "unity": "unidade",
+          "number": 0.5,
+          "name": "pimentão vermelho em tiras "
+        },
+        {
+          "unity": "ml",
+          "number": 30,
+          "name": "azeite de oliva"
+        },
+        {
+          "unity": "g",
+          "number": 150,
+          "name": "queijo muçarela ralado"
+        },
+        {
+          "unity": "g",
+          "number": 100,
+          "name": "linguiça calabresa fatiada"
+        },
+        {
+          "unity": "a gosto",
+          "number": null,
+          "name": "sal"
+        },
+        {
+          "unity": "a gosto",
+          "number": null,
+          "name": "pimenta do reino"
+        }
+      ],
+      "preparation": [
+        " Cortar a picanha no sentido longitudinal sem atravessar a peça ",
+        " Virar a picanha do avesso ",
+        " Rechear com o queijo muçarela, a linguiça, a cebola e o pimentão ",
+        " Fechar a picanha com auxílio de uma agulha de lardear e barbante ",
+        " Untar com azeite de oliva e temperar com sal e pimenta ",
+        " Levar ao forno preaquecido a 200 graus 30 minutos de um lado, virar e assar mais 40 minutos do outro "
+     ]
+      
+    },
+    { 
+    "name": "Hambúrguer à parmegiana",
+    "description": "O hambúrguer turbinado, à modo parmegiana.",
+    "image": "http://semmedida.com/wp-content/uploads/2014/05/parmegiana_burguer_semmedida_larissa_januario1-968x1024.jpg",
+    "ingredients": [
+      {
+        "unity": "g",
+        "number": 400,
+        "name": "carne moída"
+      },
+      {
+        "unity": "a gosto",
+        "number": null,
+        "name": "sal"
+      },
+      {
+        "unity": "ml",
+        "number": 240,
+        "name": "queijo muçarela ralado"
+      },
+      {
+        "unity": "ml",
+        "number": 240,
+        "name": "farinha de trigo"
+      },
+      {
+        "unity": "unidade",
+        "number": 2,
+        "name": "ovo batido"
+      },
+      {
+        "unity": "ml",
+        "number": 240,
+        "name": "farinha de pão ou panko"
+      },
+      {
+        "unity": "ml",
+        "number": 120,
+        "name": "molho de tomate"
+      },
+      {
+        "unity": "g",
+        "number": 70,
+        "name": "queijo muçarela"
+      },
+      {
+        "unity": "g",
+        "number": 40,
+        "name": "presunto"
+      },
+      {
+        "unity": "unidade",
+        "number": 2,
+        "name": "pão de hambúrguer"
+      }
+    ],
+    "preparation": [
+      " Temperar a carne com sal e pimenta do reino, formatar o hambúrguer e rechear com queijo muçarela ",
+      " Empanar na farinha no ovo e na farinha de pão ",
+      " Fritar em óleo quente e escorrer em papel absorvente ",
+      " Dispor em uma assadeira cobrir com o presunto e com o queijo e levar ao forno preaquecido a 180 graus por 10 min ou até que o queijo esteja derretido ",
+      " Abrir o pão, cobrir a base com o molho de tomate e dispor o hambúrguer sobre o molho, cobrir com a outra metade do pão e servir. "
+    ]
+    
+  },
+  { 
+  "name": "Chuleta acebolada",
+  "description": "que tal uma refeição saborosa e completa ?, pega essa chuleta supimpa então.",
+  "image": "https://truffle-assets.imgix.net/eb11f77b-chuleta-acebolada_l_thumb.jpg",
+  "ingredients": [
+    {
+      "unity": "g",
+      "number": 500,
+      "name": "batata bolinha"
+    },
+    {
+      "unity": "dentes",
+      "number": 4,
+      "name": "alho"
+    },
+    {
+      "unity": "a gosto",
+      "number": null,
+      "name": "sal"
+    },
+    {
+      "unity": "a gosto",
+      "number": null,
+      "name": "pimenta do reino"
+    },
+    {
+      "unity": "unidade",
+      "number": 2,
+      "name": "bisteca"
+    },
+    {
+      "unity": "g",
+      "number": 24,
+      "name": "manteiga"
+    },
+    {
+      "unity": "unidade",
+      "number": 2,
+      "name": "cebola em rodelas finas"
+    },
+    {
+      "unity": "unidade",
+      "number": 2,
+      "name": "ramos de alecrim"
+    },
+    {
+      "unity": "g",
+      "number": 24,
+      "name": "molho inglês"
+    },
+    {
+      "unity": "ml",
+      "number": 120,
+      "name": "creme de leite fresco"
+    }
+  ],
+  "preparation": [
+    " Dispor as batatinhas e o alho em uma assadeira, regar com azeite e temperar com sal e pimenta do reino ",
+    " Levar ao forno preaquecido a 180 graus por, aproximadamente, 30 minutos ou até que estejam macias ",
+    " Temperar as bistecas com sal e pimenta do reino. Reservar ",
+    " Aquecer uma frigideira, regar com azeite e selar as bistecas. Reservar ",
+    " Na mesma frigideira, derreter a manteiga e refogar as cebolas ",
+    " Juntar o alecrim e o molho inglês e cozinhar por 3 minutos ",
+    " Temperar com sal e pimenta. Reservar ",
+    " Amassar as batatas com o alho",
+    " Juntar o creme de leite fresco e corrigir o sal ",
+    " Servir as bistecas com purê de batatas e com o molho de cebolas. "
+  ]
+  
+},
+{ 
+"name": "Maminha na Brasa com Farofa de Erva-mate",
+"description": "Carne suculenta com uma farofa super saborosa.",
+"image": "https://scontent-iad3-1.cdninstagram.com/vp/e869f5e9771dc3855ce1dd2d1fa4d77a/5B45B5C3/t51.2885-15/s480x480/e35/c0.135.1080.1080/29089983_353750881795538_8346000163487088640_n.jpg?ig_cache_key=MTczODc5NTc4NDg1MzE4MzM1Ng%3D%3D.2.c",
+"ingredients": [
+  {
+    "unity": "kg",
+    "number": 3,
+    "name": "maminha"
+  },
+  {
+    "unity": "a gosto",
+    "number": null,
+    "name": "sal grosso"
+  },
+  {
+    "unity": "g",
+    "number": 500,
+    "name": "farinha de mandioca"
+  },
+  {
+    "unity": "g",
+    "number": 100,
+    "name": "manteiga"
+  },
+  {
+    "unity": "g",
+    "number": 80,
+    "name": "erva mate peneirada"
+  },
+  {
+    "unity": "a gosto",
+    "number": null,
+    "name": "sal"
+  }
+],
+"preparation": [
+  " Cobrir a maminha em sal grosso. Em uma churrasqueira ou fogo de chão, espere o carvão virar brasa ",
+  " Levar a carne a um espeto ou grelha. Cozinhar até ficar dourada e virar. Bater o sal e servir com a farofa ",
+  " Para fazer a farofa, derreter a manteiga em uma frigideira grande ",
+  " Adicionar a farinha e cozinhar em fogo baixo até que fique dourada. Desligar o fogo e misturar a erva-mate peneirada. Temperar com um pouco de sal. "
+]
+
+},
+{
+"name": "Almôndegas recheadas",
+"description": "Que tal estas deliciosas almôndegas com uma cervejinha ? é uma alternativa muito boa. ",
+"image": "http://s.glbimg.com/po/rc/media/2013/11/05/16_30_37_686_155.JPG",
+"ingredients": [
+  {
+    "unity": "a gosto",
+    "number": null,
+    "name": "azeite de oliva"
+  },
+  {
+    "unity": "unidade",
+    "number": 2,
+    "name": "Cebolas picadas"
+  },
+  {
+    "unity": "dente",
+    "number": 3,
+    "name": "alho picado"
+  },
+  {
+    "unity": "g",
+    "number": 300,
+    "name": "carne bovina moída"
+  },
+  {
+    "unity": "g",
+    "number": 300,
+    "name": "carne suína moída"
+  },
+  {
+    "unity": "a gosto",
+    "number": null,
+    "name": "sal"
+  },
+  {
+    "unity": "a gosto",
+    "number": null,
+    "name": "pimenta do reino"
+  },
+  {
+    "unity": "unidade",
+    "number": 1,
+    "name": "ovo"
+  },
+  {
+    "unity": "unidade",
+    "number": 2,
+    "name": "fatia de pao esmigalhado"
+  },
+  {
+    "unity": "a gosto",
+    "number": null,
+    "name": "folhas de manjericão"
+  },
+  {
+    "unity": "g",
+    "number": 150,
+    "name": "queijo muçarela em cubos"
+  },
+  {
+    "unity": "unidade",
+    "number": 4,
+    "name": "tomate picado"
+  },
+  {
+    "unity": "ml",
+    "number": 120,
+    "name": "água"
+  },
+  {
+    "unity": "ml",
+    "number": 240,
+    "name": "passata de tomates"
+  }
+],
+"preparation": [
+  " Refogar em azeite a cebola e o alho. Reservar ",
+  " Em uma tigela dispor a carne bovina, a suína, temperar com sal e pimenta ",
+  " Agregar a cebola e o alho refogados à carne. Adicionar o ovo e o pão esmigalhado e misturar bem. ",
+  " Adicionar as folhas de manjericão ",
+  " Formatar bolinhas com a mistura de carne e colocar um dado de queijo dentro de cada uma delas ",
+  " Em uma frigideira bem quente selar as bolinhas de carne. Reservar ",
+  " Na mesma frigideira, refogar a cebola e o alho em azeite de oliva ",
+  " Juntar o tomate picado, temperar com sal e pimenta, juntar a água e deixar cozinhar até o tomate se desmanchar e virar um molho ",
+  " Juntar as almôndegas seladas e deixar cozinhar por 5 minutos. "
+]
+
+}
+]
+}
+}
