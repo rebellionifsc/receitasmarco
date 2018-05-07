@@ -1,0 +1,2534 @@
+{
+	"name": "HeyCeitas",
+	"description": "",
+	"recipes": {
+		"soups": [
+            {
+			"name": "Sopa creme de ervilha",
+			"description": "Deliciosamente simples",
+			"image": "https://1344552651.rsc.cdn77.org/prod/imagens/receita/14167/sopa-creme-de-ervilha-11979.jpg",
+			"ingredients": [
+			  {
+				"unity": "g",
+				"number": 100,
+				"name": "bacon"
+			  },
+			  {
+				"unity": "g",
+				"number": 200,
+				"name": "linguiça portuguesa"
+			  },
+			  {
+				"unity": "ml",
+				"number": 15,
+				"name": "óleo "
+			  },
+			  {
+				"unity": "g",
+				"number": 250,
+				"name": "ervilha"
+			  },
+			  {
+				"unity": "l",
+				"number": 1,
+				"name": "água"
+			  },
+			  {
+				"unity": "unidade",
+				"number": 1,
+				"name": "cebola"
+			  },
+			  {
+				"unity": "a gosto",
+				"number": null,
+				"name": "sal"
+			  },
+			  {
+				"unity": "a gosto",
+				"number": null,
+				"name": "pimenta calabresa"
+			  }
+			],
+			"preparation": [
+			  " Na panela de pressão, doure o bacon na própria gordura até começar a ficar crocante. Adicione a linguiça e refogue por uns 2 minutos ",
+			  " Junte a água, a cebola, a ervilha, a pimenta e sal a gosto e deixe cozinhar por 25 minutos, em fogo médio, após o início da fervura (chiado) ",
+			  " Libere a pressão sob água corrente e mexa a sopa. A ervilha deverá estar desfeita, como se tivesse sido batida no liquidificador (se necessário, junte mais água e deixe ferver um pouco mais com a panela destampada) ",
+			  " Sirva"
+		   ]
+			
+		  },
+		  { 
+		  "name": "Sopa de abóbora e manjericão",
+		  "description": "Simples, rapida e nutritiva",
+		  "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449089459",
+		  "ingredients": [
+			{
+			  "unity": "g",
+			  "number": 500,
+			  "name": "abóbora"
+			},
+			{
+			  "unity": "ml",
+			  "number": 45,
+			  "name": "óleo"
+			},
+			{
+			  "unity": "unidade",
+			  "number": 1,
+			  "name": "cebola"
+			},
+			{
+			  "unity": "dentes",
+			  "number": 5,
+			  "name": "alho"
+			},
+			{
+			  "unity": "l",
+			  "number": 1,
+			  "name": "caldo de legumes"
+			},
+			{
+			  "unity": "g",
+			  "number": 80,
+			  "name": "manjericão"
+			}
+		  ],
+		  "preparation": [
+			" Com uma faca afiada, descasque a moranga, retire as sementes e corte-a em cubos ",
+			" Aqueça o óleo em fogo alto na panela de pressão e doure a cebola e o alho. Acrescente a abóbora picada, o caldo e o manjericão, misture e deixe ferver ",
+			" Abaixe o fogo, tampe a panela e cozinhe por 20 minutos, marcados após o início da fervura ",
+			" Apague o fogo e espere a pressão esgotar naturalmente para abrir a panela. Amasse os pedaços de abóbora com as costas de uma concha, acerte o sal e sirva a sopa imediatamente"
+		  ]
+		  
+		},
+		{ 
+		"name": "Caldo de couve-flor",
+		"description": "Simples,saudável e deliciosa",
+		"image": "http://s2.glbimg.com/74Nwy6rqG74XfvQSM_eMvURV-Q4=/s.glbimg.com/et/gs/f/original/2016/11/21/sopa_de_couve-flor.jpg",
+		"ingredients": [
+		  {
+			"unity": "ml",
+			"number": 15,
+			"name": "azeite"
+		  },
+		  {
+			"unity": "unidade",
+			"number": 1,
+			"name": "cebola"
+		  },
+		  {
+			"unity": "dentes",
+			"number": 2,
+			"name": "alho"
+		  },
+		  {
+			"unity": "unidade",
+			"number": 1,
+			"name": "couve-flor"
+		  },
+		  {
+			"unity": "l",
+			"number": 2,
+			"name": "água"
+		  },
+		  {
+			"unity": "g",
+			"number": 30,
+			"name": "cebolinha verde picada"
+		  },
+		  {
+			"unity": "a gosto",
+			"number": null,
+			"name": "sal"
+		  },
+		  {
+			"unity": "a gosto",
+			"number": null,
+			"name": "pimenta"
+		  }
+		],
+		"preparation": [
+		  " Aqueça o azeite em fogo médio e refogue a cebola e o alho até dourar levemente. Adicione a couve-flor e a água e deixe cozinhar por 25 minutos ",
+		  " Transfira para o copo do liquidificador e bata até triturar bem. Coe, leve de volta ao fogo baixo e tempere com sal e pimenta-do-reino a gosto. Deixe levantar fervura, salpique cebolinha verde a gosto e sirva em seguida "
+		  
+		]
+		
+	  },
+	  { 
+	  "name": "Sopa de mandioquinha com calabresa",
+	  "description": "Uma sopa creme,  encorpada ao mesmo tempo delicada, super cremosa e saborosa. ",
+	  "image": "https://img.cybercook.uol.com.br/imagens/receitas/320/caldo-de-mandioquinha-com-calabresa.jpg",
+	  "ingredients": [
+		{
+		  "unity": "g",
+		  "number": 500,
+		  "name": "mandioquinha"
+		},
+		{
+		  "unity": "unidade",
+		  "number": 1,
+		  "name": "linguiça calabresa"
+		},
+		{
+		  "unity": "ml",
+		  "number": 900,
+		  "name": "água quente"
+		},
+		{
+		  "unity": "unidade",
+		  "number": 1,
+		  "name": "cebola"
+		},
+		{
+		  "unity": "dentes",
+		  "number": 3,
+		  "name": "alho"
+		},
+		{
+		  "unity": "a gosto",
+		  "number": null,
+		  "name": "pimenta"
+		},
+		{
+		  "unity": "ml",
+		  "number": 15,
+		  "name": "azeite"
+		}
+	  ],
+	  "preparation": [
+		" Descasque a mandioquinha – batata baroa e corte-as em pedaços menores ",
+		" Corte a cebola em cubos pequenos, uniformes e regulares.Reserve ",
+		" Retire a pele da linguiça calabresa e corte-a em fatias ",
+		" Em uma panela, coloque o azeite e a linguiça calabresa fatiada ",
+		" Deixe dourar bem até que forme uma ‘crostinha’ no fundo da panela ",
+		" Coloque os 3 dentes de alho picados  ou amassados, misture deixe dourar por 1 minuto, e junte 1 cebola picada e deixando  por mais 1-2 minutos até ela  ficar translúcida ",
+		" Coloque a mandioquinha,  tempere com a pimenta do reino, ainda não adicione sal.Junte 3-4 xícaras de água fervente, tampe e deixe cozinhar por 15 minutos. ",
+		" Com ajuda de um garfo, separe as linguiças calabresa, reserve num prato a parte, e com o mixer, na panela mesmo, liquidifique o restante.",
+		" Também pode ser batida no liquidificador ou passada na peneira para fazer o creme.Depois de liquidificada, devolva as linguiças reservadas ao caldo cremoso.",
+		" Tempere com azeite extra virgem, mais pimenta do reino ralada na hora, 1/3 de xicara de cebolinha picada.",
+		" Sirva"
+	  ]
+	  
+	  },
+	  {
+	  "name": "Creme de espinafre",
+	  "description": "Popeye aprova e recomenda. ",
+	  "image": "https://t2.rg.ltmcdn.com/pt/images/3/7/5/img_creme_de_espinafre_facil_4573_600.jpg",
+	  "ingredients": [
+		{
+		  "unity": "g",
+		  "number": 300,
+		  "name": "espinafre"
+		},
+		{
+		  "unity": "ml",
+		  "number": 15,
+		  "name": "leite"
+		},
+		{
+		  "unity": "g",
+		  "number": 50,
+		  "name": "manteiga"
+		},
+		{
+		  "unity": "g",
+		  "number": 30,
+		  "name": "farinha de trigo"
+		},
+		{
+		  "unity": "a gosto",
+		  "number": null,
+		  "name": "Noz-moscada"
+		},
+		{
+		  "unity": "a gosto",
+		  "number": null,
+		  "name": "pimenta"
+		},
+		{
+		  "unity": " a gosto",
+		  "number": null,
+		  "name": "sal"
+		}
+	  ],
+	  "preparation": [
+		" Leve uma panela média com a manteiga ao fogo baixo. Quando derreter, junte a farinha e mexa bem por 2 minutos, até ficar levemente dourada ",
+		" Adicione o leite gelado de uma só vez e mexa vigorosamente com um batedor de arame para não empelotar. Quando a mistura de farinha dissolver, aumente o fogo para médio. Tempere com nozmoscada e cozinhe, sem parar de mexer, até engrossar (cerca de 10 minutos) ",
+		" Acrescente o espinafre congelado e mexa para que os cubos derretam e o creme fique uniforme. Tempere com sal a gosto ",
+		" Cozinhe em fogo médio, sem parar de mexer, por mais 10 minutos (ou até o creme atingir a consistência desejada). Sirva a seguir com bife ou filé de carnes, aves ou peixes "
+	  ]
+	  
+	  }
+	],
+		
+		"pastas": [
+			{
+			"name": "Crepe de carne seca e catupiry",
+			"description": "Rango simples,rapido e delicioso",
+			"image": "http://static.pedidor.com/carne-seca-com-catupiry-imgp-b1-512e1b6a8bc391af44000005-512faf108bc391d54c000004-717a6ad772636854991a3bbc1e84cf3c.jpeg",
+			"ingredients": [
+				{
+					"unity": "unidade",
+					"number": 1,
+					"name": "ovo"
+				},
+				{
+					"unity": "ml",
+					"number": 360,
+					"name": "leite"
+				},
+				{
+					"unity": "g",
+					"number": 120,
+					"name": "farinha de trigo"
+				},
+				{
+					"unity": "g",
+					"number": 6,
+					"name": "manteiga"
+				},
+				{
+					"unity": "a gosto",
+					"number": null,
+					"name": "sal"
+				},
+				{
+					"unity": "g",
+					"number": 400,
+					"name": "carne seca"
+				},
+				{
+					"unity": "g",
+					"number": 300,
+					"name": "requeijão"
+				}
+			],
+			"preparation": [
+				" Para a massa, bata o ovo,o leite,o sal,a manteiga e a farinha de trigo no liquidificador ",
+				" Depois leve ao refrigerador e aguarde uns 30 minutos ",
+				" Untar uma frigideira antiaderente com um pouquinho de manteiga e colocar massa suficiente para “forrar” o fundo e um pouco das laterais ",
+				" Deixe em fogo baixo e quando estiver pronta do lado de baixo, ela soltará da frigideira e aí você poderá virar para cozinhar do outro lado e depois rechear no prato ",
+				" Adicione a carne seca o requeijão ",
+				" Sirva "
+				
+			]
+			
+        },
+		{ 
+		"name": "Fettuccine com camarão",
+		"description": "Forrest Gump ficaria orgulhoso",
+		"image": "http://2.bp.blogspot.com/-naBTXHwp71Q/USvgo16T7HI/AAAAAAAAASQ/ds9CyFvnjXM/s640/IMG_9939.jpg",
+		"ingredients": [
+			{
+				"unity": "g",
+				"number": 200,
+				"name": "macarrão"
+			},
+			{
+				"unity": "g",
+				"number": 6,
+				"name": "manteiga"
+			},
+			{
+				"unity": "g",
+				"number": 300,
+				"name": "camarão pré-cozido"
+			},
+			{
+				"unity": "ml",
+				"number": 45,
+				"name": "azeite"
+			},
+			{
+				"unity": "ml",
+				"number": 80,
+				"name": "leite"
+			},
+			{
+				"unity": "unidade",
+				"number": 0.5,
+				"name": "cebola"
+			},
+			{
+				"unity": "unidade",
+				"number": 1,
+				"name": "caldo de camarão"
+			},
+			{
+				"unity": "ml",
+				"number": 80,
+				"name": "creme de leite"
+			},
+			{
+				"unity": "g",
+				"number": 120,
+				"name": "mascarpone"
+			},
+			{
+				"unity": "a gosto",
+				"number": null,
+				"name": "sal"
+			},
+			{
+				"unity": "a gosto",
+				"number": null,
+				"name": "pimenta"
+			}
+		],
+		"preparation": [
+			" Ferva a água, prepare o macarrão e reserve ",
+			" Numa frigideira, coloque a manteiga e deixe tudo preparado para na hora de finalizar os pratos, fritar rapidamente os camarões. ",
+			" Em outra frigideira ou panela grande, (precisa ser grande porque a massa será finalizada junto com o molho nesta panela), coloque o azeite e frite um dente de alho picado caso tenha ",
+			" Depois acrescente o leite quente e o caldo de camarão já dissolvido neste leite. Misture bem e siga adicionando o creme de leite e o mascarpone. ",
+			" Tempere com sal e pimenta e mexa até que fique mais cremoso. ",
+			" Misture a massa com o molho",
+			" Paralelamente frite os camarões em uma frigideira ",
+			" Coloque a massa com o molho em um prato, depois alguns camarões ",
+			" Sirva "
+		]
+		
+	},
+	{ 
+	"name": "Lasanha de estrogonofe",
+	"description": "Acho que o nome já é autoexplicativo",
+	"image": "https://cdn.mytaste.org/i?u=group2%2FM00%2F24%2F3E%2FCgAIN1gTjgmAfK8GAAD7Zn1x7Jw194.jpg&w=330&h=270&c=1",
+	"ingredients": [
+		{
+			"unity": "g",
+			"number": 350,
+			"name": "peito de frango"
+		},
+		{
+			"unity": "ml",
+			"number": 30,
+			"name": "óleo"
+		},
+		{
+			"unity": "g",
+			"number": 50,
+			"name": "champignon fatiado"
+		},
+		{
+			"unity": "ml",
+			"number": 15,
+			"name": "molho inglês"
+		},
+		{
+			"unity": "g",
+			"number": 12,
+			"name": "mostarda"
+		},
+		{
+			"unity": "g",
+			"number": 12,
+			"name": "catchup"
+		},
+		{
+			"unity": "a gosto",
+			"number": null,
+			"name": "sal"
+		},
+		{
+			"unity": "g",
+			"number": 100,
+			"name": "creme de leite"
+		},
+		{
+			"unity": "ml",
+			"number": 360,
+			"name": "leite"
+		},
+		{
+			"unity": "g",
+			"number": 9,
+			"name": "amido de milho"
+		},
+		{
+			"unity": "pacote",
+			"number": 1,
+			"name": "massa fresca para lasanha"
+		},
+		{
+			"unity": "g",
+			"number": 200,
+			"name": "queijo ralado"
+		}
+	],
+	"preparation": [
+		" Coloque o óleo em uma panela e aqueça em fogo alto. ",
+		" Quando estiver quente, coloque o frango e sem mexer muito, frite o frango até que mude de cor. ",
+		" Em seguida, acrescente o champignon e aí comece a colocar os temperos: molho inglês, mostarda e  catchup. ",
+		" Misture bem, deixe por dois minutinhos e aí acrescente o sal se necessário, e o creme de leite. ",
+		" Misture bem, desligue o fogo e reserve. ",
+		" Coloque o leite numa panela e em seguida adicione o amido de milho misturando bem até que ele desapareça. ",
+		" Leve ao fogo e mexa até engrossar. Reserve. ",
+		" Use um refratário retangular de aproximadamente (30 x 20cm) ",
+		" Coloque 1/2 xícara de leite no fundo do refratário para que cubra o fundo completamente sem formar uma camada grossa. ",
+		" Coloque então uma camada de massa-Uma de queijo-Massa novamente-O estrogonofe-Massa-Queijo-Molho branco-Queijo.",
+		" Leve ao forno preaquecido a 200ºC, por uns 20 ou 25 minutos.",
+		" Sirva"
+	]
+	
+},
+{ 
+"name": "Penne alla vodca",
+"description": "A massa é ideal para dias frios acompanhada de um bom vinho",
+"image": "http://s3.amazonaws.com/finecooking.s3.tauntonclud.com/app/uploads/2017/04/18122729/051135026-01-penne-alla-vodka-recipe-main.jpg",
+"ingredients": [
+	{
+		"unity": "pacote",
+		"number": 1,
+		"name": "macarrão"
+	},
+	{
+		"unity": "lata",
+		"number": 1,
+		"name": "molho de tomate"
+	},
+	{
+		"unity": "dente",
+		"number": 1,
+		"name": "alho"
+	},
+	{
+		"unity": "ml",
+		"number": 80,
+		"name": "azeite"
+	},
+	{
+		"unity": "g",
+		"number": 10,
+		"name": "pimenta calabresa"
+	},
+	{
+		"unity": "ml",
+		"number": 250,
+		"name": "creme de leite"
+	},
+	{
+		"unity": "ml",
+		"number": 50,
+		"name": "Vodka"
+	},
+	{
+		"unity": "a gosto",
+		"number": null,
+		"name": "sal"
+	}
+],
+"preparation": [
+	" Ponha a massa para cozinhar em uma panela grande ",
+	" Descasque e pique o alho bem fininho. Reserve. ",
+	" Ponha o azeite numa frigideira, junte o alho picado. Acenda o fogo e refogue por 30 segundos, cuidando para não deixar o alho escurecer (se dourar, descarte e comece de novo, porque alho muito passado amarga o molho) ",
+	" Junte o molho de tomate e cozinhe por 10 minutos ou até começar a engrossar. Tempere com sal e pimenta calabresa. Desligue o fogo. Aqueça o molho um pouco antes de escorrer a massa ",
+	" Escorra a massa um minuto antes de estar pronta e ponha na panela com o molho. Mexa para misturar bem ",
+	" Ponha a vodca, misture, deixe cozinhar por 30 segundos ",
+	" Junte o creme de leite, mexa e deixe cozinhar por um minuto ",
+	" Tire do fogo, ponha no prato de servir e leve à mesa. Se quiser, rale queijo parmesão por cima"
+]
+
+},
+{
+"name": "Espaguete com tomate-cereja e requeijão",
+"description": "Acho que o nome já é autoexplicativo",
+"image": "http://santagiulia.com.br/wp-content/uploads/2015/08/espaguete.jpg",
+"ingredients": [
+	{
+		"unity": "ml",
+		"number": 45,
+		"name": "azeite"
+	},
+	{
+		"unity": "dente",
+		"number": 1,
+		"name": "alho"
+	},
+	{
+		"unity": "g",
+		"number": 250,
+		"name": "tomate cereja picado"
+	},
+	{
+		"unity": "copo",
+		"number": 0.50,
+		"name": "requeijão"
+	},
+	{
+		"unity": "g",
+		"number": 20,
+		"name": "manjericão"
+	},
+	{
+		"unity": "g",
+		"number": 40,
+		"name": "queijo ralado"
+	},
+	{
+		"unity": "g",
+		"number": 400,
+		"name": "macarrão"
+	},
+	{
+		"unity": "a gosto",
+		"number": null,
+		"name": "sal"
+	},
+	{
+		"unity": "a gosto",
+		"number": null,
+		"name": "pimenta"
+	}
+],
+"preparation": [
+	" Em uma frigideira grande, aqueça o azeite e doure o alho ",
+	" Acrescente o tomate, o sal e a pimenta. Mexa delicadamente ",
+	" Tampe a panela e deixe refogar em fogo brando por 2 minutos ",
+	" Junte o requeijão e misture até derreter ",
+	" Desligue o fogo, acrescente as folhas de manjericão e o queijo ralado ",
+	" Misture ligeiramente com o espaguete e sirva em seguida "
+]
+    
+}
+],
+"practices":[
+    {
+	"name": "Miojo à parisiense",
+	"description": "Uma receita de macarrão com molho branco por um custo baixíssimo",
+	"image": "http://cozinhaadois.com.br/wp-content/uploads/2012/08/massa1.jpg?x66982",
+	"ingredients": [
+		{
+			"unity": "g",
+			"number": 100,
+			"name": "presunto"
+		},
+		{
+			"unity": "pacote",
+			"number": 1,
+			"name": "miojo"
+		},
+		{
+			"unity": "g",
+			"number": 100,
+			"name": "ervilha"
+		},
+		{
+			"unity": "ml",
+			"number": 200,
+			"name": "creme de leite"
+		},
+		{
+			"unity": "g",
+			"number": 50,
+			"name": "queijo ralado"
+		}
+	],
+	"preparation": [
+		" Coloque o miojo em água fervendo por 3 minutos sem usar o tempero ",
+		" Retire e reserve ",
+		" Em uma panela em fogo baixo, coloque o creme de leite ",
+		" Pique o presunto e adicione ao creme de leite ",
+		" Adicione também a ervilha e o tempero do miojo ",
+		" Adicione 30g de queijo ralado e mexa bem ",
+		" Desligue o fogo e cubra o miojo com o molho ",
+		" Polvilhe 20g de queijo ralado sobre o miojo."
+	]
+	
+},
+{ 
+"name": "Pão de Alho",
+"description": "Aprenda como fazer Pão de Alho ao melhor estilo humildão. Fácil, simples e gostoso",
+"image": "http://www.tudogostoso.com.br/images/recipes/000/109/170/85675/85675_original.jpg?mode=crop&width=600&height=450",
+"ingredients": [
+	{
+		"unity": "unidade",
+		"number": 4,
+		"name": "pães franceses"
+	},
+	{
+		"unity": "pote",
+		"number": 1,
+		"name": "maionese"
+	},
+	{
+		"unity": "cabeça",
+		"number": 1,
+		"name": "alho"
+	},
+	{
+		"unity": "pacote",
+		"number": 1,
+		"name": "orégano"
+	}
+],
+"preparation": [
+	" Descasque e pique oito dentes de alho ",
+	" Misture em oito colheres de maionese ",
+	" Adicione orégano à gosto ",
+	" Passe a maionese nos pães abertos na metade ",
+	" Leve ao forno por 3 minutos em fogo alto. "
+]
+
+},
+{ 
+"name": "Strogonoff de Frango",
+"description": "Strogonoff simples e supimpa",
+"image": "http://selfservicesaborear.com.br/site/wp-content/uploads/2015/06/saborear_08-estrogonofe-de-frango.jpg",
+"ingredients": [
+{
+	"unity": "g",
+	"number": 250,
+	"name": "peito de frango"
+},
+{
+	"unity": "pacote",
+	"number": 1,
+	"name": "molho de tomate"
+},
+{
+	"unity": "caixa",
+	"number": 1,
+	"name": "creme de leite"
+},
+{
+	"unity": "unidade",
+	"number": 0.25,
+	"name": "cebola"
+},
+{
+	"unity": "dentes",
+	"number": 4,
+	"name": "alho"
+},
+{
+	"unity": "xicara",
+	"number": 0.50,
+	"name": "arroz"
+}
+],
+"preparation": [
+" Pique metade da cebola ed o alho e refogue em óleo ",
+" Adicione o arroz e depois 1 xícara de água ",
+" Deixe o arroz cozinhar até secar a água ",
+" Corte o peito de frango em cubinhos ",
+" Pique a outra metade da cebola e do alho e refogue em óleo ",
+" Frite o frango junto com o a cebola e o alho ",
+" Acrescente sal e o molho de tomate e deixe cozinhar por 5 minutos ",
+" Desligue o fogo e acrescente o creme de leite."
+]
+
+},
+{ 
+"name": "Buraco Quente (aka Mexicano)",
+"description": "( ͡° ͜ʖ ͡°)",
+"image": "http://www.sabordacidade.com.br/fotos/f06s06s2015s12s12s37.jpg",
+"ingredients": [
+{
+"unity": "unidade",
+"number": 2,
+"name": "pães franceses"
+},
+{
+"unity": "g",
+"number": 250,
+"name": "carne moída"
+},
+{
+"unity": "pacote",
+"number": 1,
+"name": "cominho"
+},
+{
+"unity": "unidade",
+"number": 1,
+"name": "tomate"
+},
+{
+"unity": "unidade",
+"number": 0.50,
+"name": "cebola"
+},
+{
+"unity": "dentes",
+"number": 6,
+"name": "alho"
+},
+{
+"unity": "g",
+"number": 50,
+"name": "bacon"
+}
+],
+"preparation": [
+" Corte o bacon em cubinhos e frite em uma panela ",
+" Adicione o alho picado e frite até ficar dourado ",
+" Entre com a cebola picada e refogue até ficar translúcida ",
+" Frite a carne e tempere com sal e cominho ",
+" Adicione o tomate e meio copo de água ",
+" Entre com o molho de pimenta ",
+" Cozinhe por 10 minutos ",
+" Afunde o miolo para dentro dos pães e encha com a carne."
+]
+
+},
+{
+"name": "Miojo Calabrês",
+"description": "Aprenda a fazer esse miojo tunado com molho de calabresa. ",
+"image": "https://i.ytimg.com/vi/4ZHVKvUJ1Xo/hqdefault.jpg",
+"ingredients": [
+{
+"unity": "pacote",
+"number": 1,
+"name": "miojo"
+},
+{
+"unity": "unidade",
+"number": 1,
+"name": "Linguiça Calabresa"
+},
+{
+"unity": "unidade",
+"number": 1,
+"name": "tomate"
+},
+{
+"unity": "unidade",
+"number": 0.50,
+"name": "cebola"
+},
+{
+"unity": "dente",
+"number": 1,
+"name": "alho"
+},
+{
+"unity": "pacote",
+"number": 1,
+"name": "queijo ralado"
+}
+],
+"preparation": [
+" Frite a linguiça calabresa fatiada ",
+" Adicione a cebola e o alho picados e refogue ",
+" Adicione o tomate picado e deixe cozinhar até soltar bastante água ",
+" Acrescente 1/2 copo de água e metade do tempero do macarrão e espere reduzir ",
+" Cozinhe o macarrão por 3 minutos ",
+" Escorra toda a água do macarrão, misture com o molho e sirva. "
+]
+
+},
+{
+"name": "Omelête",
+"description": "Aprenda a fazer esse omlete humildão com bacon. Prático e barato!",
+"image": "https://www.comidaereceitas.com.br/images/stories/2012/11/omelete_bacon.jpg",
+"ingredients": [
+{
+"unity": "unidade",
+"number": 2,
+"name": "ovos"
+},
+{
+"unity": "fatias",
+"number": 3,
+"name": "bacon"
+},
+{
+"unity": "pacote",
+"number": 1,
+"name": "queijo ralado"
+}
+],
+"preparation": [
+" Bata 2 ovos temperados com sal e pimenta em um recipiente ",
+" Frite as tiras de bacon em uma frigideira média ",
+" Reserve o bacon e, na mesma frigideira, coloque o ovo batido ",
+" Quando o ovo começar a fica consistente, adicione o queijo ralado e o bacon ",
+" Dobre o omelete no meio e sirva. "
+]
+
+},
+{
+"name": "Mac and Cheese",
+"description": "Aprenda como fazer Mac and Cheese, uma tradicional gordice inglesa que virou febre nos Estados Unidos.",
+"image": "http://www.jehancancook.com/wp-content/uploads/2014/03/Mac-1-18-1024x828.jpg",
+"ingredients": [
+{
+"unity": "g",
+"number": 150,
+"name": "macarrão"
+},
+{
+"unity": "g",
+"number": 150,
+"name": "muçarela"
+},
+{
+"unity": "g",
+"number": 50,
+"name": "queijo ralado"
+},
+{
+"unity": "g",
+"number": 150,
+"name": "creme de leite"
+},
+{
+"unity": "ml",
+"number": 20,
+"name": "leite"
+}
+],
+"preparation": [
+" Encha uma panela pequena com 1,5 litros de água e bote para fever ",
+" Quando a água estiver fervendo, adicione 150g de macarrão penne ",
+" Espere por de 8 a 12 minutos (depende da marca do macarrão) até o macarrão ficar al dente ",
+" Escorra o macarrão e reserve ",
+" Na mesma panela, coloque o creme de leite e a muçarela e deixea derreter ",
+" Adicione metade do queijo ralado e o leite e mexa até ficar homogêneo ",
+" Entre com o macarrão, misture bem e sirva "
+]
+
+},
+{
+"name": "Sopa Creme de Cebola",
+"description": "Sopa simples e deliciosa",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4O-kKcPfVLzw56Jfc2FUZEiZ00v562PsKEsr6sT8gpVRfAuLhRw",
+"ingredients": [
+{
+"unity": "g",
+"number": 700,
+"name": "cebola"
+},
+{
+"unity": "ml",
+"number": 200,
+"name": "creme de leite"
+},
+{
+"unity": "ml",
+"number": 400,
+"name": "água"
+},
+{
+"unity": "dentes",
+"number": 2,
+"name": "alho"
+},
+{
+"unity": "g",
+"number": 50,
+"name": "queijo ralado"
+},
+{
+"unity": "g",
+"number": 30,
+"name": "margarina"
+},
+{
+"unity": "unidade",
+"number": 1,
+"name": "pão francês"
+}
+],
+"preparation": [
+" Corte as cebolas em tiras e refogue em uma panela ",
+" Acrescente 250ml água morna e deixe reduzir pela metade ",
+" Tempere com sal e pimenta do reino à gosto ",
+" Adicione mais 150ml de água e deixe reduzir pela metade ",
+" Acrescente o creme de leite, misture bem, desligue o fogo e deixe esfriar por 10 minutos ",
+" Corte o pão francês em fatias finas, passe a manteiga, coloque alho por cima e leve ao forno para torrar ",
+" Bata a sopa no liquidificador e coloque em uma tigela de porcelana (que possa ir ao forno) ",
+" Bote três rodelas de pão em cima de cada tigela de sopa e cubra de queijo parmesão.",
+" Leve ao forno para gratinar e sirva."
+]
+
+},
+{
+"name": "Miojo All'Amatriciana",
+"description": "Humildade a moda italiana",
+"image": "https://s-media-cache-ak0.pinimg.com/originals/87/ee/36/87ee363225c8550a401554f8651ac9bd.jpg",
+"ingredients": [
+{
+"unity": "pacote",
+"number": 1,
+"name": "miojo"
+},
+{
+"unity": "unidade",
+"number": 3,
+"name": "tomates"
+},
+{
+"unity": "g",
+"number": 130,
+"name": "bacon"
+},
+{
+"unity": "g",
+"number": 100,
+"name": "queijo ralado"
+},
+{
+"unity": "g",
+"number": 20,
+"name": "pimenta vermelha"
+}
+],
+"preparation": [
+" Faça cortes superficiais em forma de X na \"bunda\" do tomate ",
+" Deixe-os por 1 minuto na água fervendo ",
+" Retire a pele, corte-os em 4 partes e tire o miolo e pique ",
+" Pique a pimenta ",
+" Corte o bacon em pequenas tiras e frite (reserve) ",
+" Leve os tomates para a mesma panela que o bacon foi frito ",
+" Deixe o tomate cozinhar por 5 minutos, acrescente o bacon, a pimenta, 200ml de água e misture tudo muito bem ",
+" Adicione 50g de queijo ralado ",
+" Cozinhe o macarrão ",
+" Sirva o miojo com o molho e finalize com o queijo ralado"
+]
+
+},
+{
+"name": "Batata Rosti",
+"description": "Aprenda a fazer a Batata Rosti, deliciosa receita suiça com apenas 4 ingredientes. ",
+"image": "http://www.multireceitas.com.br/wp-content/uploads/2015/06/Receta-Batata-Rosti-Recheada1.jpg",
+"ingredients": [
+{
+"unity": "g",
+"number": 500,
+"name": "batata"
+},
+{
+"unity": "g",
+"number": 60,
+"name": "margarina"
+},
+{
+"unity": "a gosto",
+"number": null,
+"name": "requeijão"
+},
+{
+"unity": "g",
+"number": 150,
+"name": "presunto"
+}
+
+
+],
+"preparation": [
+" Coloque água para ferver em uma panela ",
+" Com a água fervendo, coloque as batatas inteiras e deixe cozinhar por 10 minutos ",
+" Retire as batatas e deixe por 1/2 hora no freezer ",
+" Pique o presunto e reserve ",
+" Retire as batatas do congelador, descasque-as e rale-as ",
+" Tempere com sal e pimenta do reino ",
+" Derreta 3 colheres de manteiga no microondas e adicione nas batatas raladas ",
+" Misture bem",
+" Em uma frigideira anti-aderente, faça uma camada de batata e leve ao fogo",
+" Coloque uma porção generosa de requeijão e salpique o presunto picado",
+" Faça outra camada de batata por cima",
+" Deixe fritar por (em média) 5 minutos e vire para fritar do outro lado.",
+" Sirva "
+]
+
+},
+{
+"name": "Batata Hasselback",
+"description": "Aprenda como fazer Hassellback Potato, a batata assada estilo sueco, na versão humildona e tunada",
+"image": "http://www.receitadodia.com/wp-content/uploads/2013/08/batatas-Hasselback-1.jpg",
+"ingredients": [
+{
+"unity": "unidade",
+"number": 1,
+"name": "batata"
+},
+{
+"unity": "g",
+"number": 10,
+"name": "alecrim"
+},
+{
+"unity": "g",
+"number": 40,
+"name": "manteiga"
+},
+{
+"unity": "dentes",
+"number": 2,
+"name": "alho"
+},
+{
+"unity": "a gosto",
+"number": null,
+"name": "sal"
+},
+{
+"unity": "a gosto",
+"number": null,
+"name": "pimenta"
+}
+],
+"preparation": [
+" Leve o azeite, o alecrim e o alho ao fogo baixo em uma panela pequena ",
+" Aqueça o azeite por 2 minutos sem deixa-lo queimar ",
+" Faça cortes transversais na batata ",
+" Besunte a batata com o azeite temperado ",
+" Leve ao forno por 40 minutos à 200º ",
+" Retire do forno, passe mais azeite e volte ao forno por mais 15 minutos à 250º.",
+" Sirva "
+]
+
+},
+
+{"name": "Batatas Rústicas",
+"description": "Aprenda como se fazer batata rústica frita no forno.",
+"image": "https://www.amorpelacomida.com.br/wp-content/uploads/2018/01/batata-rustica-frita-de-forno-crocante-por-fora-e-macia-por-dentro-721x1024.jpg",
+"ingredients": [
+{
+"unity": "unidades",
+"number": 3,
+"name": "batatas"
+},
+{
+"unity": "unidades",
+"number": 2,
+"name": "ramos de alecrim"
+},
+{
+"unity": "dentes",
+"number": 5,
+"name": "alho"
+},
+{
+"unity": "ml",
+"number": 200,
+"name": "azeite"
+}
+],
+"preparation": [
+" Lave as batatas e corte-as em 6 pedaços ",
+" Cozinhe as batatas em água fervente por 5 minutos ",
+" Coloque as batatas, o alho e o alecrim em uma assadeira e regue com azeite ",
+" Asse à 200º por 30 minutos, vire as batatas e asse por mais 10 minutos ",
+" Retire as batatas da assadeira e utilize papel toalha para secar o excesso de azeite ",
+" Sirva com um molho de sua preferencia "
+
+]
+},
+{   "name": "Macarrão com molho de queijo",
+"description": "Uma massa sempre vai bem, é fácil de fazer e muito gostosa!",
+"image": "https://receitinhas.s3-sa-east-1.amazonaws.com/wp-content/uploads/2016/10/macarr%C3%A3o-com-molho-de-queijo-tratada-848x477.jpg",
+"ingredients": [
+{
+	"unity": "g",
+	"number": 200,
+	"name": "requeijão"
+},
+{
+	"unity": "ml",
+	"number": 700,
+	"name": "leite"
+},
+{
+	"unity": "g",
+	"number": 15,
+	"name": "farinha de trigo"
+},
+{
+	"unity": "g",
+	"number": 80,
+	"name": "cebola ralada"
+},
+{
+	"unity": "g",
+	"number": 500,
+	"name": "Macarrão"
+},
+{
+	"unity": "g",
+	"number": 80,
+	"name": "queijo ralado"
+},
+{
+	"unity": "g",
+	"number": 25,
+	"name": "manteiga"
+},
+{
+	"unity": "a gosto",
+	"number": null,
+	"name": "sal"
+}	
+],
+"preparation": [
+" Cozinhe o macarrão em água quente com sal e reserve. ",
+" Numa panela, refogue a farinha na manteiga em fogo baixo, acrescente a cebola e refogue um pouco mais. Adicione o leite fervendo e mexa até engrossar.",
+" Acrescente o requeijão,o queijo ralado e deixe incorporar. Acerte o sal. ",
+" Numa tigela, despeje o macarrão e vá acrescentando o molho do queijo ",
+" Sirva "
+]
+
+},
+{ 
+"name": "Carninha de panela",
+"description": "Versão humilde da carne de panela da sua mãe.",
+"image": "https://www.receitadevovo.com.br/gbau/sistema/receitas/img/bife-de-panela.jpg",
+"ingredients": [
+	{
+		"unity": "kg",
+		"number": 2,
+		"name": "carne"
+	},
+	{
+		"unity": "unidade",
+		"number": 1,
+		"name": "cebola"
+	},
+	{
+		"unity": "unidades",
+		"number": 2,
+		"name": "caldos de carne"
+	}
+	
+],
+"preparation": [
+	" Em uma panela de pressão, coloque a cebola picada e o caldo de carne ",
+	" Coloque a carne picada e mais um caldo de carne por cima ",
+	" Tampe a panela e deixe cozinhar em fogo médio por 30 minutos. ",
+	" Destampe a panela e veja o resultado, uma carne macia e saborosa ",
+	" Sirva "
+]
+
+},
+{ 
+	"name": "Frango ao molho de tomate",
+	"description": "Que tal dar um toque cremoso no franguinho básico? essa receita fica pronta em menos de 30 minutos!",
+	"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3GEHOyQrkoHxQvpTqMD3ybRZHLZ83jfvDhLETSUImfb8SupUpGw",
+	"ingredients": [
+		{
+			"unity": "g",
+			"number": 200,
+			"name": "frango"
+		},
+		{
+			"unity": "unidade",
+			"number": 1,
+			"name": "lata de molho de tomate"
+		},
+		{
+			"unity": "ml",
+			"number": 30,
+			"name": "óleo"
+		},
+		{
+			"unity": "ml",
+			"number": 120,
+			"name": "água"
+		},
+		{
+			"unity": "a gosto",
+			"number": null,
+			"name": "sal"
+		},
+		{
+			"unity": "a gosto",
+			"number": null,
+			"name": "pimenta"
+		}
+	],
+	"preparation": [
+		" Tempere o frango com sal e pimenta ",
+		" Frite os pedaços de frango até dourarem dos dois lados ",
+		" Junte o molho de tomate e a água ",
+		" Tampe e deixe cozinhar até o frango ficar macio. ",
+		" Seu prato está pronto, Bom apetite! "
+		
+	]
+	
+	},
+	{ 
+		"name": "Panqueca de batatas",
+		"description": "Uma receita diferente, extremamente deliciosa e prática",
+		"image": "http://images1.minhavida.com.br/imagensconteudo/22895/panqueca-batata-doce-.jpg",
+		"ingredients": [
+			{
+				"unity": "unidades",
+				"number": 4,
+				"name": "batatas"
+			},
+			{
+				"unity": "unidades",
+				"number": 2,
+				"name": "ovos"
+			},
+			{
+				"unity": "g",
+				"number": 40,
+				"name": "manteiga"
+			},
+			{
+				"unity": "g",
+				"number": 15,
+				"name": "farinha de trigo"
+			},
+			{
+				"unity": "ml",
+				"number": 30,
+				"name": "leite"
+			},
+			{
+				"unity": "a gosto",
+				"number": null,
+				"name": "sal"
+			}
+
+		],
+		"preparation": [
+			" Descasque e rale as batatas ",
+			" Numa tigela, colocar os ovos e bater ligeiramente, juntar a metade da manteiga, a farinha, o leite e mexer bem. ",
+			" Juntar as batatas e o sal. ",
+			" Numa frigideira, colocar o restante da manteiga, acrescentar a massa de batatas e deixar no fogo brando até dourar. ",
+			" Virar e dourar o outro lado ",
+			" Sirva "
+		]
+		
+		},
+		{ 
+			"name": "Atum ao forno",
+			"description": "Do mar pra lata, e da lata pro seu coração.",
+			"image": "http://s.glbimg.com/po/rc/media/2012/06/13/14/30/21/531/_atum_ao_forno.jpg",
+			"ingredients": [
+				{
+					"unity": "unidades",
+					"number": 3,
+					"name": "batatas"
+				},
+				{
+					"unity": "unidades",
+					"number": 2,
+					"name": "tomates"
+				},
+				{
+					"unity": "unidade",
+					"number": 1,
+					"name": "cebola"
+				},
+				{
+					"unity": "latas",
+					"number": 2,
+					"name": "atum"
+				},
+				{
+					"unity": "g",
+					"number": 200,
+					"name": "queijo ralado"
+				},
+				{
+					"unity": "a gosto",
+					"number": null,
+					"name": "azeite"
+				},
+				{
+					"unity": "a gosto",
+					"number": null,
+					"name": "sal"
+				},
+				{
+					"unity": "a gosto",
+					"number": null,
+					"name": "pimenta"
+				}
+			],
+			"preparation": [
+				" Corte as batatas e a cebola em rodelas, e o tomate em quadradinhos ",
+				" Unte uma assadeira com azeite ",
+				" Alterne camadas de batata, tomate, cebola, atum e mussarela na frigideira ",
+				" Sobre cada camada, regue um pouco de azeite, tempere com o sal e pimenta ",
+				" Leve ao forno alto, preaquecido, a 220 ºC, durante 25 minutos ",
+				" Sirva "
+				
+			]
+			
+			},
+			{ 
+				"name": "Palitos crocantes de peixe",
+				"description": "Filezinhos de peixe empanados de uma maneira simples e deliciosa",
+				"image": "http://www.receitax.com/wp-content/uploads/2016/02/file-de-peixe-empanado.jpg",
+				"ingredients": [
+					{
+						"unity": "unidade",
+						"number": 2,
+						"name": "ovos"
+					},
+					{
+						"unity": "g",
+						"number": 250,
+						"name": "farinha de rosca"
+					},
+					{
+						"unity": "g",
+						"number": 30,
+						"name": "farinha de trigo"
+					},
+					{
+						"unity": "g",
+						"number": 450,
+						"name": "filé de peixe"
+					},
+					{
+						"unity": "a gosto",
+						"number": null,
+						"name": "sal"
+					},
+					{
+						"unity": "a gosto",
+						"number": null,
+						"name": "pimenta"
+					}
+
+				],
+				"preparation": [
+					" Bata os ovos em um recipiente. Jogue a farinha de rosca e a farinha de trigo em dois pratos. ",
+					" Tempere o peixe com sal e pimenta e corte-o em ’palitos’ médios. Passe-os primeiro pela farinha, retirando o excesso. Depois, pelo ovo batido e, por último, pela farinha de rosca. ",
+					" Coloque os palitos de peixe em uma frigideira e frite-os em óleo vegetal por 3 minutos de cada lado. ",
+					" Coloque os palitos já prontos em um prato coberto com papel toalha. "
+				]
+				
+				},
+				{ 
+					"name": "Brigadeiro de Caneca",
+					"description": "Aprenda como fazer brigadeiro de caneca no microondas!",
+					"image": "http://www.mundoboaforma.com.br/wp-content/uploads/2015/03/brigadeiro-de-colher.jpg",
+					"ingredients": [
+						{
+							"unity": "g",
+							"number": 150,
+							"name": "leite condensado"
+						},
+						{
+							"unity": "g",
+							"number": 6,
+							"name": "achocolatado em pó"
+						},
+						{
+							"unity": "g",
+							"number": 12,
+							"name": "manteiga"
+						}
+				
+					],
+					"preparation": [
+						" Misture os ingredientes em uma caneca de cerâmica e mexa bem ",
+						" Leve ao microondas por 2 minutos ",
+						" Retire, mexa bem e volte para o microondas por mais 20 segundos ",
+						" Repita o processo por mais três vezes, tomando cuidado para ele não transbordar ",
+						" Retire e leve por 5 minutos no freezer. "
+						
+					]
+					
+					},
+					{ 
+						"name": "Mousse de Maracujá ",
+						"description": "Quem não tomou agora vai tomar",
+						"image": "http://vilamulher.uol.com.br/imagens/default/2008/02/19/mousse-de-maracuja-para-criancas-138-11538.jpg",
+						"ingredients": [
+							{
+								"unity": "lata",
+								"number": 1,
+								"name": "leite condensado"
+							},
+							{
+								"unity": "lata",
+								"number": 1,
+								"name": "creme de leite"
+							},
+							{
+								"unity": "ml",
+								"number": 200,
+								"name": "suco de maracujá"
+							}
+						],
+						"preparation": [
+							" Misture os ingredientes no liquidificador e bata ",
+							" Leve para uma tigela ",
+							" Deixe na geladeira por 4 horas ",
+							" Sirva "
+							
+						]
+						
+						},
+						{ 
+							"name": "Bolinha de Queijo",
+							"description": "Fácil e deliciosa, essa é a Bolinha de Queijo, um clássico das festinhas infantis, em sua versão tunada!",
+							"image": "https://www.receitadevovo.com.br/gbau/sistema/receitas/img/bolinha-de-queijo.jpg",
+							"ingredients": [
+								{
+									"unity": "g",
+									"number": 200,
+									"name": "muçarela"
+								},
+								{
+									"unity": "g",
+									"number": 150,
+									"name": "provolone"
+								},
+								{
+									"unity": "g",
+									"number": 75,
+									"name": "parmesão"
+								},
+								{
+									"unity": "g",
+									"number": 75,
+									"name": "gorgonzola"
+								},
+								{
+									"unity": "g",
+									"number": 60,
+									"name": "farinha de trigo"
+								},
+								{
+									"unity": "unidade",
+									"number": 1,
+									"name": "ovo"
+								},
+								{
+									"unity": "g",
+									"number": 150,
+									"name": "farinha de rosca"
+								}
+							],
+							"preparation": [
+								" Rale todos os queijos ",
+								" Misture todos os ingredientes em um bowl e misture até ficar uma massa homogênia ",
+								" Faça bolinhas pequenas e passe na farinha de rosca ",
+								" Frite em óleo quente até ficar dourada. ",
+								" Sirva "
+								
+							]
+							
+							},
+							{ 
+								"name": "Bolo de chocolate simples",
+								"description": "ele é tipo, estupidamente simples",
+								"image": "https://www.receitas-sem-fronteiras.com/uploads/media/hehe3.jpg?1392911693",
+								"ingredients": [
+									{
+										"unity": "pacote",
+										"number": 1,
+										"name": "mistura para bolo"
+									},
+									{
+										"unity": "ml",
+										"number": 500,
+										"name": "água com gás"
+									}
+								],
+								"preparation": [
+									" Misture todos os ingredientes em um recipiente ",
+									" Coloque em uma forma untada ",
+									" Ponha no forno pré-aquecido a 180 graus por 35 minutos ",
+									" Retire e adicione uma cobertura de sua preferencia ",
+									" Sirva "
+									
+								]
+								
+								},
+								{ 
+									"name": "Omuraisu",
+									"description": "O famoso omeletão japonês com nome de lutador do Tekken",
+									"image": "https://japanese-school-asahi.com/wp-content/uploads/2017/01/img_9517.jpg",
+									"ingredients": [
+										{
+											"unity": "g",
+											"number": 280,
+											"name": "arroz"
+										},
+										{
+											"unity": "dente",
+											"number": 1,
+											"name": "alho"
+										},
+										{
+											"unity": "unidade",
+											"number": 0.25,
+											"name": "cebola"
+										},
+										{
+											"unity": "g",
+											"number": 200,
+											"name": "molho de tomate"
+										},
+										{
+											"unity": "unidade",
+											"number": 4,
+											"name": "ovos"
+										},
+										{
+											"unity": "g",
+											"number": 8,
+											"name": "creme de leite"
+										},
+										{
+											"unity": "a gosto",
+											"number": null,
+											"name": "ketchup"
+										},
+										{
+											"unity": "a gosto",
+											"number": null,
+											"name": "sal"
+										},
+										{
+											"unity": "a gosto",
+											"number": null,
+											"name": "pimenta"
+										}
+									],
+									"preparation": [
+										" Em um recipiente, adicione dois ovos, misturando-os com um garfo. Em seguida, acrescente o creme de leite, o sal e a pimenta ",
+										" Em uma frigideira, acrescente o azeite e frite o alho e a cebola até que fiquem douradas e, então, adicione o molho de tomate e o arroz cozido. Misture e reserve ",
+										" Em outra frigideira, acrescente um pouco de azeite e adicione a mistura de ovos para o preparo da omelete. Quando estiver pronta, basta colocar o arroz como recheio e decorar com catchup "
+										
+									]
+									
+									},
+									{ 
+										"name": "Mousse de limão",
+										"description": "Simples,facil e humilde #ajudanois",
+										"image": "http://s.glbimg.com/po/rc/media/2014/06/19/19_23_44_309_015180d85a5f5c3e9720821c0a5bef66.jpg",
+										"ingredients": [
+											{
+												"unity": "lata",
+												"number": 1,
+												"name": "leite condensado"
+											},
+											{
+												"unity": "lata",
+												"number": 1,
+												"name": "creme de leite"
+											},
+											{
+												"unity": "ml",
+												"number": 120,
+												"name": "suco de limão"
+											}
+										],
+										"preparation": [
+											" Coloque no liquidificador o creme de leite (com soro mesmo) e o leite condensado ",
+											" Bata um pouco e depois vá acrescentando o suco do limão, aos poucos ",
+											" Ele vai ficar bem consistente, leve à geladeira ",
+											" Sirva "
+										]
+										
+										},
+										{ 
+											"name": "Frozen Iogurte",
+											"description": "Um simples sorvete caseiro pra dias quentes",
+											"image": "http://tudomesmo.com.br/receitas/wp-content/uploads/2013/10/receita-de-sorvete-de-coco.jpg",
+											"ingredients": [
+												{
+													"unity": "potes",
+													"number": 2,
+													"name": "iogurte"
+												},
+												{
+													"unity": "g",
+													"number": 80,
+													"name": "açucar"
+												},
+												{
+													"unity": "lata",
+													"number": 1,
+													"name": "creme de leite"
+												},
+												{
+													"unity": "a gosto",
+													"number": null,
+													"name": "cobertura de chocolate"
+												}
+											],
+											"preparation": [
+												" Em uma travessa não muito funda, misture o Iogurte, o açúcar e o Creme de Leite ",
+												" Passe para um recipiente refratário e leve ao freezer, coberto com papel alumínio por, no mínimo, 6 horas. ",
+												" Coloque em cada taça duas bolas de Frozen Iogurte, espalhe sobre elas a cobertura ",
+												" Sirva "
+											]
+											
+											}   
+										],
+										"meat":[{
+											"name": "Picanha Recheada",
+											"description": "Aprenda a fazer uma picanha super suculenta e saborosa.",
+											"image": "https://truffle-assets.imgix.net/a70589ab-picanha-recheada_l_thumb.jpg",
+											"ingredients": [
+											  {
+												"unity": "kg",
+												"number": 1,
+												"name": "picanha"
+											  },
+											  {
+												"unity": "unidade",
+												"number": 0.5,
+												"name": "cebola roxa em tiras"
+											  },
+											  {
+												"unity": "unidade",
+												"number": 0.5,
+												"name": "pimentão vermelho em tiras "
+											  },
+											  {
+												"unity": "ml",
+												"number": 30,
+												"name": "azeite de oliva"
+											  },
+											  {
+												"unity": "g",
+												"number": 150,
+												"name": "queijo muçarela ralado"
+											  },
+											  {
+												"unity": "g",
+												"number": 100,
+												"name": "linguiça calabresa fatiada"
+											  },
+											  {
+												"unity": "a gosto",
+												"number": null,
+												"name": "sal"
+											  },
+											  {
+												"unity": "a gosto",
+												"number": null,
+												"name": "pimenta do reino"
+											  }
+											],
+											"preparation": [
+											  " Cortar a picanha no sentido longitudinal sem atravessar a peça ",
+											  " Virar a picanha do avesso ",
+											  " Rechear com o queijo muçarela, a linguiça, a cebola e o pimentão ",
+											  " Fechar a picanha com auxílio de uma agulha de lardear e barbante ",
+											  " Untar com azeite de oliva e temperar com sal e pimenta ",
+											  " Levar ao forno preaquecido a 200 graus 30 minutos de um lado, virar e assar mais 40 minutos do outro "
+										   ]
+											
+										  },
+										  { 
+										  "name": "Hambúrguer à parmegiana",
+										  "description": "O hambúrguer turbinado, à modo parmegiana.",
+										  "image": "http://semmedida.com/wp-content/uploads/2014/05/parmegiana_burguer_semmedida_larissa_januario1-968x1024.jpg",
+										  "ingredients": [
+											{
+											  "unity": "g",
+											  "number": 400,
+											  "name": "carne moída"
+											},
+											{
+											  "unity": "a gosto",
+											  "number": null,
+											  "name": "sal"
+											},
+											{
+											  "unity": "ml",
+											  "number": 240,
+											  "name": "queijo muçarela ralado"
+											},
+											{
+											  "unity": "ml",
+											  "number": 240,
+											  "name": "farinha de trigo"
+											},
+											{
+											  "unity": "unidade",
+											  "number": 2,
+											  "name": "ovo batido"
+											},
+											{
+											  "unity": "ml",
+											  "number": 240,
+											  "name": "farinha de pão ou panko"
+											},
+											{
+											  "unity": "ml",
+											  "number": 120,
+											  "name": "molho de tomate"
+											},
+											{
+											  "unity": "g",
+											  "number": 70,
+											  "name": "queijo muçarela"
+											},
+											{
+											  "unity": "g",
+											  "number": 40,
+											  "name": "presunto"
+											},
+											{
+											  "unity": "unidade",
+											  "number": 2,
+											  "name": "pão de hambúrguer"
+											}
+										  ],
+										  "preparation": [
+											" Temperar a carne com sal e pimenta do reino, formatar o hambúrguer e rechear com queijo muçarela ",
+											" Empanar na farinha no ovo e na farinha de pão ",
+											" Fritar em óleo quente e escorrer em papel absorvente ",
+											" Dispor em uma assadeira cobrir com o presunto e com o queijo e levar ao forno preaquecido a 180 graus por 10 min ou até que o queijo esteja derretido ",
+											" Abrir o pão, cobrir a base com o molho de tomate e dispor o hambúrguer sobre o molho, cobrir com a outra metade do pão e servir. "
+										  ]
+										  
+										},
+										{ 
+										"name": "Chuleta acebolada",
+										"description": "que tal uma refeição saborosa e completa ?, pega essa chuleta supimpa então.",
+										"image": "https://truffle-assets.imgix.net/eb11f77b-chuleta-acebolada_l_thumb.jpg",
+										"ingredients": [
+										  {
+											"unity": "g",
+											"number": 500,
+											"name": "batata bolinha"
+										  },
+										  {
+											"unity": "dentes",
+											"number": 4,
+											"name": "alho"
+										  },
+										  {
+											"unity": "a gosto",
+											"number": null,
+											"name": "sal"
+										  },
+										  {
+											"unity": "a gosto",
+											"number": null,
+											"name": "pimenta do reino"
+										  },
+										  {
+											"unity": "unidade",
+											"number": 2,
+											"name": "bisteca"
+										  },
+										  {
+											"unity": "g",
+											"number": 24,
+											"name": "manteiga"
+										  },
+										  {
+											"unity": "unidade",
+											"number": 2,
+											"name": "cebola em rodelas finas"
+										  },
+										  {
+											"unity": "unidade",
+											"number": 2,
+											"name": "ramos de alecrim"
+										  },
+										  {
+											"unity": "g",
+											"number": 24,
+											"name": "molho inglês"
+										  },
+										  {
+											"unity": "ml",
+											"number": 120,
+											"name": "creme de leite fresco"
+										  }
+										],
+										"preparation": [
+										  " Dispor as batatinhas e o alho em uma assadeira, regar com azeite e temperar com sal e pimenta do reino ",
+										  " Levar ao forno preaquecido a 180 graus por, aproximadamente, 30 minutos ou até que estejam macias ",
+										  " Temperar as bistecas com sal e pimenta do reino. Reservar ",
+										  " Aquecer uma frigideira, regar com azeite e selar as bistecas. Reservar ",
+										  " Na mesma frigideira, derreter a manteiga e refogar as cebolas ",
+										  " Juntar o alecrim e o molho inglês e cozinhar por 3 minutos ",
+										  " Temperar com sal e pimenta. Reservar ",
+										  " Amassar as batatas com o alho",
+										  " Juntar o creme de leite fresco e corrigir o sal ",
+										  " Servir as bistecas com purê de batatas e com o molho de cebolas. "
+										]
+										
+									  },
+									  { 
+									  "name": "Maminha na Brasa com Farofa de Erva-mate",
+									  "description": "Carne suculenta com uma farofa super saborosa.",
+									  "image": "https://scontent-iad3-1.cdninstagram.com/vp/e869f5e9771dc3855ce1dd2d1fa4d77a/5B45B5C3/t51.2885-15/s480x480/e35/c0.135.1080.1080/29089983_353750881795538_8346000163487088640_n.jpg?ig_cache_key=MTczODc5NTc4NDg1MzE4MzM1Ng%3D%3D.2.c",
+									  "ingredients": [
+										{
+										  "unity": "kg",
+										  "number": 3,
+										  "name": "maminha"
+										},
+										{
+										  "unity": "a gosto",
+										  "number": null,
+										  "name": "sal grosso"
+										},
+										{
+										  "unity": "g",
+										  "number": 500,
+										  "name": "farinha de mandioca"
+										},
+										{
+										  "unity": "g",
+										  "number": 100,
+										  "name": "manteiga"
+										},
+										{
+										  "unity": "g",
+										  "number": 80,
+										  "name": "erva mate peneirada"
+										},
+										{
+										  "unity": "a gosto",
+										  "number": null,
+										  "name": "sal"
+										}
+									  ],
+									  "preparation": [
+										" Cobrir a maminha em sal grosso. Em uma churrasqueira ou fogo de chão, espere o carvão virar brasa ",
+										" Levar a carne a um espeto ou grelha. Cozinhar até ficar dourada e virar. Bater o sal e servir com a farofa ",
+										" Para fazer a farofa, derreter a manteiga em uma frigideira grande ",
+										" Adicionar a farinha e cozinhar em fogo baixo até que fique dourada. Desligar o fogo e misturar a erva-mate peneirada. Temperar com um pouco de sal. "
+									  ]
+									  
+									  },
+									  {
+									  "name": "Almôndegas recheadas",
+									  "description": "Que tal estas deliciosas almôndegas com uma cervejinha ? é uma alternativa muito boa. ",
+									  "image": "http://s.glbimg.com/po/rc/media/2013/11/05/16_30_37_686_155.JPG",
+									  "ingredients": [
+										{
+										  "unity": "a gosto",
+										  "number": null,
+										  "name": "azeite de oliva"
+										},
+										{
+										  "unity": "unidade",
+										  "number": 2,
+										  "name": "Cebolas picadas"
+										},
+										{
+										  "unity": "dente",
+										  "number": 3,
+										  "name": "alho picado"
+										},
+										{
+										  "unity": "g",
+										  "number": 300,
+										  "name": "carne bovina moída"
+										},
+										{
+										  "unity": "g",
+										  "number": 300,
+										  "name": "carne suína moída"
+										},
+										{
+										  "unity": "a gosto",
+										  "number": null,
+										  "name": "sal"
+										},
+										{
+										  "unity": "a gosto",
+										  "number": null,
+										  "name": "pimenta do reino"
+										},
+										{
+										  "unity": "unidade",
+										  "number": 1,
+										  "name": "ovo"
+										},
+										{
+										  "unity": "unidade",
+										  "number": 2,
+										  "name": "fatia de pao esmigalhado"
+										},
+										{
+										  "unity": "a gosto",
+										  "number": null,
+										  "name": "folhas de manjericão"
+										},
+										{
+										  "unity": "g",
+										  "number": 150,
+										  "name": "queijo muçarela em cubos"
+										},
+										{
+										  "unity": "unidade",
+										  "number": 4,
+										  "name": "tomate picado"
+										},
+										{
+										  "unity": "ml",
+										  "number": 120,
+										  "name": "água"
+										},
+										{
+										  "unity": "ml",
+										  "number": 240,
+										  "name": "passata de tomates"
+										}
+									  ],
+									  "preparation": [
+										" Refogar em azeite a cebola e o alho. Reservar ",
+										" Em uma tigela dispor a carne bovina, a suína, temperar com sal e pimenta ",
+										" Agregar a cebola e o alho refogados à carne. Adicionar o ovo e o pão esmigalhado e misturar bem. ",
+										" Adicionar as folhas de manjericão ",
+										" Formatar bolinhas com a mistura de carne e colocar um dado de queijo dentro de cada uma delas ",
+										" Em uma frigideira bem quente selar as bolinhas de carne. Reservar ",
+										" Na mesma frigideira, refogar a cebola e o alho em azeite de oliva ",
+										" Juntar o tomate picado, temperar com sal e pimenta, juntar a água e deixar cozinhar até o tomate se desmanchar e virar um molho ",
+										" Juntar as almôndegas seladas e deixar cozinhar por 5 minutos. "
+									  ]
+									  
+									  }
+									],
+									"chicken":[{
+										"name": "Filé de frango com molho cremoso de champignon",
+										"description": "É muito fácil  de fazer e com ingredientes simples, mas que ganha um ar mais sofisticado e de festa por conta do champingnon.",
+										"image": "http://i-exc.ccm2.net/iex/1280/1524365381/1305074.jpg",
+										"ingredients": [
+										  {
+											"unity": "unidades",
+											"number": 2,
+											"name": "peitos de frango"
+										  },
+										  {
+											"unity": "g",
+											"number": 12,
+											"name": "manteiga"
+										  },
+										  {
+											"unity": "ml",
+											"number": 8,
+											"name": "óleo "
+										  },
+										  {
+											"unity": "unidade",
+											"number": 1,
+											"name": "cebola picada"
+										  },
+										  {
+											"unity": "dentes",
+											"number": 2,
+											"name": "alho picado"
+										  },
+										  {
+											"unity": "g",
+											"number": 100,
+											"name": "champignon"
+										  },
+										  {
+											"unity": "a gosto",
+											"number": null,
+											"name": "sal"
+										  },
+										  {
+											"unity": "a gosto",
+											"number": null,
+											"name": "pimenta do reino"
+										  },
+										  {
+											"unity": "caixa",
+											"number": 1,
+											"name": "creme de leite"
+										  }
+										],
+										"preparation": [
+										  " Corte cada peito de frango ao meio no sentido do comprimento. Você ficará com 4 pedaços ",
+										  " Coloque a manteiga e o óleo em uma frigideira e deixe esquentar bem ",
+										  " Coloque dois pedaços de frango e deixe fritar ",
+										  " Assim que ficar dourado, vire polvilhe sal e pimenta do reino moída e deixe fritar do outro lado, depois polvilhe sal e pimenta do outro lado também. Faça isso com todos os pedaços. Retire da frigideira e reserve ",
+										  " Na frigideira onde você fritou o frango, coloque a cebola picadinha e o alho espremido, deixe fritar bem, Acrescente o champignon fatiado e o creme de leite e misture bem. Deixe aquecer, mas não ferver para não talhar ",
+										  " Coloque o molho em uma travessa, fatie os peitos de frango e arrume na travessa com o molho. Enfeite com ervas ",
+										  " Sirva "
+									   ]
+										
+									  },
+									  { 
+									  "name": "Tiras de frango com repolho cremoso",
+									  "description": "Simples, rapida e nutritiva",
+									  "image": "http://4.bp.blogspot.com/-P62LsFYTTyg/VeThoUTmQ5I/AAAAAAAABvA/Xy5QAQ9OuhA/s1600/Frango%2Bcom%2Brepolho%2Bcremoso.JPG",
+									  "ingredients": [
+										{
+										  "unity": "g",
+										  "number": 600,
+										  "name": "frango"
+										},
+										{
+										  "unity": "a gosto",
+										  "number": null,
+										  "name": "sal"
+										},
+										{
+										  "unity": "unidade",
+										  "number": 1,
+										  "name": "repolho verde"
+										},
+										{
+										  "unity": "g",
+										  "number": 20,
+										  "name": "manteiga"
+										},
+										{
+										  "unity": "g",
+										  "number": 10,
+										  "name": "bacon"
+										},
+										{
+										  "unity": "g",
+										  "number": 30,
+										  "name": "creme de leite"
+										},
+										{
+										  "unity": "g",
+										  "number": 20,
+										  "name": "requeijão"
+										},
+										{
+										  "unity": "g",
+										  "number": 100,
+										  "name": "queijo muçarela"
+										},
+										{
+										  "unity": "dentes",
+										  "number": 3,
+										  "name": "alho picado"
+										},
+										{
+										  "unity": "a gosto",
+										  "number": null,
+										  "name": "pimenta"
+										}
+									  ],
+									  "preparation": [
+										" Corte o peito de frango em tiras grossas e tempere com o alho picado, sal e pimenta. Reserve ",
+										" Corte o repolho pela metade e depois pique o repolho lateralmente em fatias finas, Reserve ",
+										" Em uma frigideira grande, frite o frango temperado na manteiga. Se precisar frite em duas ou três “viagens”, para evitar que o seu frango solte água e cozinhe. Transfira o frango frito para um prato e reserve ",
+										" Na mesma frigideira que usou para fritar o frango, frite o bacon na própria gordura até ficar douradinho",
+										" Adicione o repolho e a cenoura ralada e refogue até amolecer. Tempere com sal e pimenta ",
+										" Adicione o requeijão, a nata e o queijo e mexa até o queijo derreter e o molho ficar bem cremoso ",
+										" Adicione o frango frito por cima e afunde um pouco com uma colher para ele ficar bem melecadinho com o molho"
+									  ]
+									  
+									},
+									{ 
+									"name": "Frango ao molho de catupiry",
+									"description": "Uma versão turbinada do filezinho de frango",
+									"image": "http://receitasdecomidas.com.br/wp-content/uploads/2016/05/379x252xfrango-molho-catupiry-420x279.jpg.pagespeed.ic.T8XBx92cYa.jpg",
+									"ingredients": [
+									  {
+										"unity": "g",
+										"number": 200,
+										"name": "frango"
+									  },
+									  {
+										"unity": "dentes",
+										"number": 1,
+										"name": "alho"
+									  },
+									  {
+										"unity": "unidade",
+										"number": 0.50,
+										"name": "cebola"
+									  },
+									  {
+										"unity": "g",
+										"number": 150,
+										"name": "catupiry"
+									  },
+									  {
+										"unity": "g",
+										"number": 8,
+										"name": "farinha de trigo"
+									  },
+									  {
+										"unity": "g",
+										"number": 12,
+										"name": "manteiga"
+									  },
+									  {
+										"unity": "ml",
+										"number": 700,
+										"name": "leite"
+									  },
+									  {
+										"unity": "lata",
+										"number": 1,
+										"name": "creme de leite"
+									  },
+									  {
+										"unity": "a gosto",
+										"number": null,
+										"name": "sal"
+									  },
+									  {
+										"unity": "a gosto",
+										"number": null,
+										"name": "pimenta"
+									  }
+									],
+									"preparation": [
+									  " Coloque um fio de azeite para aquecer em uma panela ",
+									  " Doure a cebola e o alho, em seguida, coloque o frango para fritar,espere até dourar os dois lados,retire e reserve ",
+									  " Em uma panela, coloque a margarina e espere derreter,acrescente o restante dos ingredientes e misture até o molho atingir uma consistência grossa e homogênea ",
+									  " Despeje o molho em cima do frango pronto ",
+									  " Sirva "
+									  
+									]
+									
+								  },
+								  { 
+								  "name": "Peito de frango recheado com coppa e requeijão cremoso",
+								  "description": "Uma receita simples, porem demorada, você vai desejar estar em posse da joia do tempo",
+								  "image": "http://cozinhatravessa.com.br/wp-content/uploads/2014/09/CozinhaTravessa_20.jpg?8604ca",
+								  "ingredients": [
+									{
+									  "unity": "unidade",
+									  "number": 2,
+									  "name": "peitos de frango"
+									},
+									{
+									  "unity": "a gosto",
+									  "number": null,
+									  "name": "coppa fatiado"
+									},
+									{
+									  "unity": "a gosto",
+									  "number": null,
+									  "name": "requeijão"
+									},
+									{
+									  "unity": "ml",
+									  "number": 100,
+									  "name": "azeite"
+									},
+									{
+									  "unity": "a gosto",
+									  "number": null,
+									  "name": "pimenta"
+									},
+									{
+									  "unity": "a gosto",
+									  "number": null,
+									  "name": "sal"
+									},
+									{
+									  "unity": "g",
+									  "number": 3,
+									  "name": "gengibre em pó"
+									}
+								  ],
+								  "preparation": [
+									" Faça um corte com a faca larga no centro dos peitos de frango, mas deixe o peito separar ",
+									" Preencha o buraco com copa de colheradas de requeijão (o quanto baste) ",
+									" Coloque os peitos num refratário e tempere com sal e pimenta moída na hora. Salpique uma pitada de gengibre em pó e misture tudo com as mãos, envolvendo a ave nos temperos ",
+									" Depois regue com óleo de coco, três colheradas para cada peito. Se não tiver ou não quiser usar o óleo de coco, regue com azeite ",
+									" Cubra com papel alumínio e leve ao forno preaquecido 200 graus. Depois de uns 50 a 60 minutos, os peitos já estarão cozidos, retire o papel alumínio, diminua o forno para 180 graus e deixe dourar por mais uns 30 minutos ou mais ",
+									" Retire, fatie em rodelas grossas e volte para o forno por mais uns 5 a 10 minutos ",
+									" Retire e sirva "
+								  ]
+								  
+								  },
+								  {
+								  "name": "Filé de frango com molho de laranja",
+								  "description": "É bem fácil, rápido e dá uma incrementada no franguinho nosso de cada dia. ",
+								  "image": "https://www.receitadevovo.com.br/gbau/sistema/receitas/img/frango-ao-molho-de-laranja.JPG",
+								  "ingredients": [
+									{
+									  "unity": "unidade",
+									  "number": 4,
+									  "name": "filés de frango"
+									},
+									{
+									  "unity": "dentes",
+									  "number": 2,
+									  "name": "alho amassados"
+									},
+									{
+									  "unity": "a gosto",
+									  "number": null,
+									  "name": "pimenta"
+									},
+									{
+									  "unity": "a gosto",
+									  "number": null,
+									  "name": "sal"
+									},
+									{
+									  "unity": "ml",
+									  "number": 30,
+									  "name": "óleo"
+									},
+									{
+									  "unity": "ml",
+									  "number": 250,
+									  "name": "suco de laranja natural"
+									},
+									{
+									  "unity": "g",
+									  "number": 4,
+									  "name": "manteiga"
+									},
+									{
+									  "unity": "g",
+									  "number": 6,
+									  "name": "amido de milho"
+									},
+									{
+									  "unity": "g",
+									  "number": 4,
+									  "name": "açúcar"
+									}
+								  ],
+								  "preparation": [
+									" Coloque os filés de frango em uma tigela e tempere com o alho amassado, o sal e a pimenta do reino, misture bem e deixe tomando gosto por no mínimo 30 minutos ",
+									" Depois aqueça o óleo em uma frigideira e frite os filés ",
+									" Coloque-os na frigideira quente e só vire os filés quando eles já estiverem dourados ",
+									" Não fure os filés para eles não ressecarem e nem fique esfregando ele na frigideira, coloque eles lá e só vire quando dourar. Assim que dourar dos dois lados, já está pronto. Reserve ",
+									" Dissolva o amido de milho com o açúcar e o suco de laranja. Coloque em uma panela, junte a manteiga e leve ao fogo. Deixe ferver, mexendo sempre. Ferva alguns minutos até ele ficar levemente cremoso ",
+									" Arrume os filés em uma travessa, coloque o molho por cima e polvilhe com folhinhas de manjericão. Sirva quente. "
+								  ]
+								  
+								  }
+								],
+								"candy":[{
+									"name": "Brownie Australiano",
+									"description": "Uma receita para fazer um brownie em 20 minutos",
+									"image": "http://www.receitasdecomidas.com.br/wp-content/uploads/2013/10/brownie-australiano-.jpg",
+									"ingredients": [
+									  {
+										"unity": "g",
+										"number": 160,
+										"name": "açúcar"
+									  },
+									  {
+										"unity": "g",
+										"number": 60,
+										"name": "farinha de trigo"
+									  },
+									  {
+										"unity": "unidades",
+										"number": 2,
+										"name": "ovos"
+									  },
+									  {
+										"unity": "g",
+										"number": 5,
+										"name": "baunilha"
+									  },
+									  {
+										"unity": "g",
+										"number": 50,
+										"name": "manteiga sem sal derretida"
+									  },
+									  {
+										"unity": "g",
+										"number": 45,
+										"name": "chocolate em pó sem açúcar"
+									  },
+									  {
+										"unity": "g",
+										"number": 75,
+										"name": "barra de chocolate ao leite"
+									  },
+									  {
+										"unity": "g",
+										"number": 140,
+										"name": "macadamias picadas em pedaços não muito pequenos"
+									  }
+									],
+									"preparation": [
+									  " Misture os ingredientes nesta ordem até obter uma massa homogênea. ",
+									  " Unte uma tijela retangular (que caiba no seu microondas). ",
+									  " Despeje a massa e leve ao microondas por cerca de 5 a 7 minutos (vai depender da potencia do seu aparelho). ",
+									  " Fazendo o teste de espetar um palito de dentes, ele deve voltar limpo. ",
+									  " Retire do microondas. espere esfriar um pouco. ",
+									  " Corte em pedaços retangulares ainda morno. "
+									]
+									
+								  },
+								   {
+									"name": "Pudim de sorvete",
+									"description": "Juntando duas sobremesas em uma",
+									"image": "https://t1.rg.ltmcdn.com/pt/images/3/2/5/img_pudim_de_sorvete_facil_6523_600.jpg",
+									"ingredients": [
+									  {
+										"unity": "lata",
+										"number": 1,
+										"name": "leite condensado"
+									  },
+									  {
+										"unity": "lata",
+										"number": 2,
+										"name": "leite líquido (use a lata de leite condensado como medida)"
+									  },
+									  {
+										"unity": "unidades",
+										"number": 4,
+										"name": "ovos"
+									  },
+									  {
+										"unity": "lata",
+										"number": 1,
+										"name": "creme de leite"
+									  },
+									  {
+										"unity": "g",
+										"number": 50,
+										"name": "açúcar"
+									  }
+									],
+									"preparation": [
+									  " Em uma panela coloque o leite condensado, o leite e as gemas ",
+									  " Levar ao fogo sem levantar fervura ",
+									  " Quando esfriar acrescente o creme de leite sem o soro, reserve ",
+									  " Bater as claras com o açúcar na batedeira em ponto de suspiro ",
+									  " Acrescente esse suspiro no creme reservado ",
+									  " Coloque em forma para pudim untada com uma calda de chocolate de sua preferência", 
+									  " Leve ao freezer por 6 horas ou mais dependendo do seu freezer, retire e espere uns minutinhos para desenformar "
+									]
+								   },
+								   {
+									"name": "Pavê de Negresco",
+									"description": "Uma ótima sobremesa para comer em família, 'mas é pa vê ou pa comê'? ",
+									"image": "https://i.ytimg.com/vi/CLSRJDv3Q80/maxresdefault.jpg",
+									"ingredients": [
+									  {
+										"unity": "pacote",
+										"number": 1,
+										"name": "Negresco"
+									  },
+									  {
+										"unity": "embalagem",
+										"number": 1,
+										"name": "cream cheese"
+									  },
+									  {
+										"unity": "g",
+										"number": 40,
+										"name": "açúcar"
+									  },
+									  {
+										"unity": "lata",
+										"number": 1,
+										"name": "creme de leite sem soro"
+									  },
+									  {
+										"unity": "g",
+										"number": 250,
+										"name": "chocolate ao leite picado"
+									  }
+									],
+									"preparation": [
+									  " No fundo de uma forma tipo bolo inglês, forrada com papel alumínio, coloque 8 biscoitos ",
+									  " No liquidificador, triture o restante dos biscoitos e reserve ",
+									  " Na batedeira, bata o cream cheese, o açúcar e metade do creme de leite ",
+									  " Distribua sobre os biscoitos ",
+									  " Por cima espalhe o biscoito triturado e assente com o auxílio de uma colher ",
+									  " Derreta o chocolate em banho-maria, misture o restante do creme de leite e coloque sobre o biscoito triturado", 
+									  " Leve ao freezer no mínimo 3 horas ",
+									  " Na hora de servir, desenforme "
+									]
+								   },
+								   {
+									"name": "Bolinho frito de leite condensado.",
+									"description": "Parece um bolinho de chuva, mas é só um bolinho de leite condensado",
+									"image": "http://www.progresso.am.br/galerias/noticias/1000/0551_bolinhofritodeleitecondensado.jpg",
+									"ingredients": [
+									  {
+										"unity": "unidade",
+										"number": 4,
+										"name": "ovos"
+									  },
+									  {
+										"unity": "g",
+										"number": 12,
+										"name": "margarina"
+									  },
+									  {
+										"unity": "caixa",
+										"number": 1,
+										"name": "leite condensado"
+									  },
+									  {
+										"unity": "g",
+										"number": 10,
+										"name": "fermento"
+									  },
+									  {
+										"unity": "g",
+										"number": 360,
+										"name": "farinha de trigo"
+									  },
+									  {
+										"unity": null,
+										"number": null,
+										"name": "óleo para fritar"
+									  },
+									  {
+										"unity": null,
+										"number": null,
+										"name": "Opcional açúcar e canela em pó para polvilhar"
+									  }
+									],
+									"preparation": [
+									  " No liquidificador bata os ovos, a margarina, o leite condensado e o fermento ",
+									  " Depois disso coloque o liquido em uma tigela, acrescente a farinha de trigo aos poucos, mexa a massa até ficar bem misturada ",
+									  " Com auxilio de 2 colheres molde os bolinhos e frite em óleo quente até dourar ",
+									  " Coloque os bolinhos no papel absorvente para escorrer a gordura ",
+									  " Misture o açúcar e a canela e polvilhe por cima dos bolinhos, ou sem polvilhar o açúcar e a canela, faça um furinho na lata de leite condensado e coloque por cima dos bolinhos ou então não coloque nada por cima, que mesmo assim fica uma delícia "
+									]
+								   },
+									   {
+									"name": "Torta alemã",
+									"description": "ein köstlicher Kuchen mit Ihrem Begleiter zu essen",
+									"image": "http://s.glbimg.com/po/rc/media/2015/03/30/21_48_32_114_Torta_alem_2.jpg",
+									"ingredients": [
+									  {
+										"unity": "g",
+										"number": 200,
+										"name": "manteiga (sem sal)"
+									  },
+									  {
+										"unity": "g",
+										"number": 160,
+										"name": "açúcar"
+									  },
+									  {
+										"unity": "lata",
+										"number": 1,
+										"name": "creme de leite"
+									  },
+									  {
+										"unity": "pacote",
+										"number": 1,
+										"name": "bolacha de maizena"
+									  },
+									  {
+										"unity": null,
+										"number": null,
+										"name": "leite (para molhar a bolacha)"
+									  },
+									  {
+										"unity": "lata",
+										"number": 1,
+										"name": "leite condensado de chocolate, ou cobertura de sorvete"
+									  }
+									],
+									"preparation": [
+									  " Coloque a manteiga e o açúcar na batedeira e bata até obter um creme bem fofo e liso ",
+									  " Acrescente o creme de leite e bata rapidamente apenas para misturar ",
+									  " Desligue a batedeira e reserve ",
+									  " Separe um recipiente médio para montar o doce ",
+									  " Acrescente um pouco de leite num prato fundo e molhe rapidamente algumas bolachas maisena no leite ",
+									  " Forre o fundo do recipiente escolhido com uma camada de bolachas ",
+									  " Acrescente uma camada do creme reservado sobre as bolachas ",
+									  " Acrescente mais uma camada de bolachas molhadas no leite e repita o procedimento finalizando com a bolacha ",
+									  " Cubra a última camada de bolachas com o leite condensado sabor chocolate (comprado pronto ou a cobertura) ",
+									  " Leve à geladeira por no mínimo 3 horas ou até que o doce fique bem gelado ",
+									  " Retire o doce da geladeira e sirva a seguir "
+									]
+								   }
+								]
+}
+}
